@@ -1,0 +1,934 @@
+﻿,_id,height,race,gender,birth,spouse,death,realm,hair,name,wikiUrl
+0,5cd99d4bde30eff6ebccfbbe,,Human,Female,,Belemir,,,,Adanel,http://lotr.wikia.com//wiki/Adanel
+1,5cd99d4bde30eff6ebccfbbf,,Human,Male,"Before ,TA 1944",,"Late ,Third Age",,,Adrahil I,http://lotr.wikia.com//wiki/Adrahil_I
+2,5cd99d4bde30eff6ebccfbc0,,Human,Male,TA 2917,Unnamed wife,TA 3010,,,Adrahil II,http://lotr.wikia.com//wiki/Adrahil_II
+3,5cd99d4bde30eff6ebccfbc1,,Elf,Male,"YT during the ,Noontide of Valinor","Loved ,Andreth but remained unmarried",FA 455,,Golden,Aegnor,http://lotr.wikia.com//wiki/Aegnor
+4,5cd99d4bde30eff6ebccfbc2,,Human,Female,"Mid ,First Age",Brodda,FA 495,,,Aerin,http://lotr.wikia.com//wiki/Aerin
+5,5cd99d4bde30eff6ebccfbc3,,Human,Female,"Between ,SA 700, and ,SA 750",Orchaldor,"Early ,Second Age",,,Ailinel,http://lotr.wikia.com//wiki/Ailinel
+6,5cd99d4bde30eff6ebccfbc4,,Human,Male,TA 2827,Unnamed wife,TA 2932,,,Aglahad,http://lotr.wikia.com//wiki/Aglahad
+7,5cd99d4bde30eff6ebccfbc5,,Human,Male,"Late ,First Age",None known,FA 489,,,Algund,http://lotr.wikia.com//wiki/Algund
+8,5cd99d4bde30eff6ebccfbc6,,Human,Female,"Between ,SA 700, and ,SA 750",,"Early ,Second Age",,,Almiel,http://lotr.wikia.com//wiki/Almiel
+9,5cd99d4bde30eff6ebccfbc7,,Human,Male,TA 3017,,FO 95,,,Alphros,http://lotr.wikia.com//wiki/Alphros
+10,5cd99d4bde30eff6ebccfbc8,,Human,Female,,Tar-Meneldur,,Númenor,,Almarian,http://lotr.wikia.com//wiki/Almarian
+11,5cd99d4bde30eff6ebccfbc9,,Human,Male,"Late ,Second Age",Unnamed wife,Sailed West either SA 3310 fate unknown,,,Amandil,http://lotr.wikia.com//wiki/Amandil
+12,5cd99d4bde30eff6ebccfbca,,Elf,Female,YT,"Loved ,Finrod, but it is unknown whether they married",Still alive,,,Amarië,http://lotr.wikia.com//wiki/Amari%C3%AB
+13,5cd99d4bde30eff6ebccfbcb,,Human,Male,TA 2544,Unnamed wife,TA 2645,Rohan,,Aldor,http://lotr.wikia.com//wiki/Aldor
+14,5cd99d4bde30eff6ebccfbcc,,Human,Male,TA 1330,Unnamed wife,TA 1540,Gondor,,Aldamir,http://lotr.wikia.com//wiki/Aldamir
+15,5cd99d4bde30eff6ebccfbcd,,Human,Male,TA 726,Unnamed wife,TA 946,Arthedain,,Amlaith,http://lotr.wikia.com//wiki/Amlaith
+16,5cd99d4bde30eff6ebccfbce,,Elf,Male,,Nimrodel,TA 1981,Lórien,Golden,Amroth,http://lotr.wikia.com//wiki/Amroth
+17,5cd99d4bde30eff6ebccfbcf,,Human,Male,TA 2994,,,,,Amrothos,http://lotr.wikia.com//wiki/Amrothos
+18,5cd99d4bde30eff6ebccfbd0,,Elf,Female,YT,Fingolfin,,,,Anairë,http://lotr.wikia.com//wiki/Anair%C3%AB
+19,5cd99d4bde30eff6ebccfbd1,,Human,Male,TA 136,Unnamed wife,TA 411,Gondor,,Anardil,http://lotr.wikia.com//wiki/Anardil
+20,5cd99d4bde30eff6ebccfbd2,,Human,Male,"Late ,Third Age",,,,Dark,Anborn,http://lotr.wikia.com//wiki/Anborn
+21,5cd99d4bde30eff6ebccfbd3,,Human,Female,FA 361,"Loved ,Aegnor, but they never married",FA 455,,Dark brown,Andreth,http://lotr.wikia.com//wiki/Andreth
+22,5cd99d4bde30eff6ebccfbd4,,Human,Male,FA 440,Unnamed wife,FA 489,,,Andróg,http://lotr.wikia.com//wiki/Andr%C3%B3g
+23,5cd99d4bde30eff6ebccfbd5,,Elf,Male,Years of the Trees,None,FA 538,Estolad,Dark red,Amras,http://lotr.wikia.com//wiki/Amras
+24,5cd99d4bde30eff6ebccfbd6,,Human,Male,"Mid-,Third Age",,,,,Angamaitë,http://lotr.wikia.com//wiki/Angamait%C3%AB
+25,5cd99d4bde30eff6ebccfbd7,,Elf,Male,"Sometime during ,Years of the Trees, or the ,First Age",Unnamed wife,SA 3434,Lórien,,Amdír,http://lotr.wikia.com//wiki/Amd%C3%ADr
+26,5cd99d4bde30eff6ebccfbd8,,Elf,Male,Years of the Trees,None,"YT 1497 ,Losgar",,Dark red,Amrod,http://lotr.wikia.com//wiki/Amrod
+27,5cd99d4bde30eff6ebccfbd9,,Elf,Male,,,,,,Annael,http://lotr.wikia.com//wiki/Annael
+28,5cd99d4bde30eff6ebccfbda,,Human,Male,"Late ,Third Age",,,,,Angbor,http://lotr.wikia.com//wiki/Angbor
+29,5cd99d4bde30eff6ebccfbdb,,Human,Male,TA 2866,Unnamed wife,TA 2977,,,Angelimir,http://lotr.wikia.com//wiki/Angelimir
+30,5cd99d4bde30eff6ebccfbdc,,Elf,Male,YT,Eldalótë,FA 455,,Golden,Angrod,http://lotr.wikia.com//wiki/Angrod
+31,5cd99d4bde30eff6ebccfbdd,,Human,Male,SA 3219,Unnamed wife,SA 3440,Gondor,,Anárion,http://lotr.wikia.com//wiki/An%C3%A1rion
+32,5cd99d4bde30eff6ebccfbde,,Human,Male,SA 2709,Unnamed wife,SA 2962,Númenor,,Ar-Adûnakhôr,http://lotr.wikia.com//wiki/Ar-Ad%C3%BBnakh%C3%B4r
+33,5cd99d4bde30eff6ebccfbdf,,Human,Male,SA 2960,Inzilbêth,SA 3177,Númenor,,Ar-Gimilzôr,http://lotr.wikia.com//wiki/Ar-Gimilz%C3%B4r
+34,5cd99d4bde30eff6ebccfbe0,,Human,Male,SA 2798,Unnamed wife,SA 3033,Númenor,,Ar-Zimrathôn,http://lotr.wikia.com//wiki/Ar-Zimrath%C3%B4n
+35,5cd99d4bde30eff6ebccfbe1,Tall,Human,Male,SA 3118,Tar-Míriel,Still alive,Númenor,,Ar-Pharazôn,http://lotr.wikia.com//wiki/Ar-Pharaz%C3%B4n
+36,5cd99d4bde30eff6ebccfbe2,,Human,Male,SA 2876,Unnamed wife,SA 3102,Númenor,,Ar-Sakalthôr,http://lotr.wikia.com//wiki/Ar-Sakalth%C3%B4r
+37,5cd99d4bde30eff6ebccfbe3,,Human,Male,TA 2820,Unnamed wife,TA 2930,,"Dark, then grey (film)",Arador,http://lotr.wikia.com//wiki/Arador
+38,5cd99d4bde30eff6ebccfbe4,,Human,Male,TA 2296,Unnamed wife,TA 2455,,,Araglas,http://lotr.wikia.com//wiki/Araglas
+39,5cd99d4bde30eff6ebccfbe5,,Human,Male,TA 2227,Unnamed wife,TA 2327,,,Aragorn I,http://lotr.wikia.com//wiki/Aragorn_I
+40,5cd99d4bde30eff6ebccfbe6,"198cm (6'6"")",Human,Male,"March 1 ,2931",Arwen,FO 120,"Reunited Kingdom,Arnor,Gondor",Dark,Aragorn II Elessar,http://lotr.wikia.com//wiki/Aragorn_II_Elessar
+41,5cd99d4bde30eff6ebccfbe7,,Human,Male,TA 2431,Unnamed wife,TA 2588,,,Aragost,http://lotr.wikia.com//wiki/Aragost
+42,5cd99d4bde30eff6ebccfbe8,,Human,Male,TA 2365,Unnamed wife,TA 2523,,,Arahad I,http://lotr.wikia.com//wiki/Arahad_I
+43,5cd99d4bde30eff6ebccfbe9,,Human,Male,TA 2563,Unnamed wife,TA 2719,,,Arahad II,http://lotr.wikia.com//wiki/Arahad_II
+44,5cd99d4bde30eff6ebccfbea,,Human,Male,TA 2012,Unnamed wife,TA 2177,,,Arahael,http://lotr.wikia.com//wiki/Arahael
+45,5cd99d4bde30eff6ebccfbeb,,Human,Male,TA 1938,Unnamed wife,TA 2106,,,Aranarth,http://lotr.wikia.com//wiki/Aranarth
+46,5cd99d4bde30eff6ebccfbec,,Human,Male,TA 185,Unnamed wife,TA 435,Arnor,,Arantar,http://lotr.wikia.com//wiki/Arantar
+47,5cd99d4bde30eff6ebccfbed,,Human,Male,TA 2084,Unnamed wife,TA 2247,,,Aranuir,http://lotr.wikia.com//wiki/Aranuir
+48,5cd99d4bde30eff6ebccfbee,,Elf,Male,,Unnamed wife,,,,Aranwë,http://lotr.wikia.com//wiki/Aranw%C3%AB
+49,5cd99d4bde30eff6ebccfbef,,Human,Male,TA 1789,Unnamed wife,TA 1964,Arthedain,,Araphant,http://lotr.wikia.com//wiki/Araphant
+50,5cd99d4bde30eff6ebccfbf0,,Human,Male,TA 2693,Unnamed wife,TA 2848,,,Arathorn I,http://lotr.wikia.com//wiki/Arathorn_I
+51,5cd99d4bde30eff6ebccfbf1,,Human,Male,TA 2873,Gilraen,TA 2933,,Dark (film),Arathorn II,http://lotr.wikia.com//wiki/Arathorn_II
+52,5cd99d4bde30eff6ebccfbf2,,Human,Male,TA 1711,Unnamed wife,TA 1891,"Arthedain,Arnor",,Araval,http://lotr.wikia.com//wiki/Araval
+53,5cd99d4bde30eff6ebccfbf3,,Human,Male,TA 2156,Unnamed wife,TA 2319,,,Aravir,http://lotr.wikia.com//wiki/Aravir
+54,5cd99d4bde30eff6ebccfbf4,,Human,Male,TA 2497,Unnamed wife,TA 2654,,,Aravorn,http://lotr.wikia.com//wiki/Aravorn
+55,5cd99d4bde30eff6ebccfbf5,,Human,Male,"After ,TA 1684",Unnamed wife,,,,Arciryas,http://lotr.wikia.com//wiki/Arciryas
+56,5cd99d4bde30eff6ebccfbf6,,Human,Male,TA 2628,Unnamed wife,TA 2784,,,Arassuil,http://lotr.wikia.com//wiki/Arassuil
+57,5cd99d4bde30eff6ebccfbf7,,Human,Male,TA 1391,Unnamed wife,TA 1589,Arthedain,,Araphor,http://lotr.wikia.com//wiki/Araphor
+58,5cd99d4bde30eff6ebccfbf8,,Human,Male,SA 3339,"Unknown, possibly known",,TA 2,,Aratan,http://lotr.wikia.com//wiki/Aratan
+59,5cd99d4bde30eff6ebccfbf9,,Human,Male,SA 562,,,,,Ardamir (son of Axantur),http://lotr.wikia.com//wiki/Ardamir_(son_of_Axantur)
+60,5cd99d4bde30eff6ebccfbfa,Tall,Elf,Female,YT 1362,Eöl,FA 400,,Dark,Aredhel,http://lotr.wikia.com//wiki/Aredhel
+61,5cd99d4bde30eff6ebccfbfb,,Human,Male,TA 1226,Unnamed wife,TA 1356,"Arthedain,Arnor",,Argeleb I,http://lotr.wikia.com//wiki/Argeleb_I
+62,5cd99d4bde30eff6ebccfbfc,,Elf,Male,,,,,,Arminas,http://lotr.wikia.com//wiki/Arminas
+63,5cd99d4bde30eff6ebccfbfd,,Human,Male,"Late ,First Age",,FA 460,,,Arthad,http://lotr.wikia.com//wiki/Arthad
+64,5cd99d4bde30eff6ebccfbfe,,Human,Male,TA 1864,Fíriel,TA 1975,Arthedain,,Arvedui,http://lotr.wikia.com//wiki/Arvedui
+65,5cd99d4bde30eff6ebccfbff,,Human,Male,TA 1553,Unnamed wife,TA 1743,"Arthedain,Arnor",,Arvegil,http://lotr.wikia.com//wiki/Arvegil
+66,5cd99d4bde30eff6ebccfc00,,Human,Male,TA 1309,Unnamed wife,TA 1409,"Arnor,Arthedain",,Arveleg I,http://lotr.wikia.com//wiki/Arveleg_I
+67,5cd99d4bde30eff6ebccfc01,,Human,Male,TA 1633,Unnamed wife,TA 1813,"Arthedain,Arnor",,Arveleg II,http://lotr.wikia.com//wiki/Arveleg_II
+68,5cd99d4bde30eff6ebccfc02,Tall,Elf,Male,Years of the Trees,None,"YT 1500, or ,FA 1 ,Battle of the Lammoth",,Possibly dark,Argon,http://lotr.wikia.com//wiki/Argon
+69,5cd99d4bde30eff6ebccfc03,,Human,Male,TA 2757,Unnamed wife,TA 2912,,,Argonui,http://lotr.wikia.com//wiki/Argonui
+70,5cd99d4bde30eff6ebccfc04,,Human,Male,TA 1473,Unnamed wife,TA 1670,Arthedain,,Argeleb II,http://lotr.wikia.com//wiki/Argeleb_II
+71,5cd99d4bde30eff6ebccfc05,,Human,Male,TA 977,Unnamed wife,TA 1226,Gondor,,Atanatar II,http://lotr.wikia.com//wiki/Atanatar_II
+72,5cd99d4bde30eff6ebccfc06,,Human,Male,"After ,SA 61",Possible unnamed wife,"Early ,Second Age",,,Atanalcar,http://lotr.wikia.com//wiki/Atanalcar
+73,5cd99d4bde30eff6ebccfc07,,Elf,Female,TA 241,Aragorn II Elessar,FO 121,Reunited Kingdom,Black,Arwen,http://lotr.wikia.com//wiki/Arwen
+74,5cd99d4bde30eff6ebccfc08,,Dwarf,Male,FA 214,,FA 473,,,Azaghâl,http://lotr.wikia.com//wiki/Azagh%C3%A2l
+75,5cd99d4bde30eff6ebccfc09,,Human,Male,SA 213,Unnamed wife,"Early ,Second Age",,,Aulendil (Vardamir's son),http://lotr.wikia.com//wiki/Aulendil_(Vardamir%27s_son)
+76,5cd99d4bde30eff6ebccfc0a,,Hobbit,Female,TA 2981,,"Early-,Fourth Age",,Blonde,Angelica Baggins,http://lotr.wikia.com//wiki/Angelica_Baggins
+77,5cd99d4bde30eff6ebccfc0b,,Human,Male,SA 395,Unnamed wife,,,,Axantur,http://lotr.wikia.com//wiki/Axantur
+78,5cd99d4bde30eff6ebccfc0c,,Hobbit,Male,TA 2767,Berylla (Boffin) Baggins,TA 2858,,,Balbo Baggins,http://lotr.wikia.com//wiki/Balbo_Baggins
+79,5cd99d4bde30eff6ebccfc0d,,Human,Male,TA 480,Unnamed wife,TA 748,Gondor,,Atanatar I,http://lotr.wikia.com//wiki/Atanatar_I
+80,5cd99d4bde30eff6ebccfc0e,,Hobbit,Female,TA 2852,Bungo Baggins,TA 2934,,Black,Belladonna (Took) Baggins,http://lotr.wikia.com//wiki/Belladonna_(Took)_Baggins
+81,5cd99d4bde30eff6ebccfc0f,,Hobbit,Female,TA 2772,Balbo Baggins,TA 2871,,,Berylla (Boffin) Baggins,http://lotr.wikia.com//wiki/Berylla_(Boffin)_Baggins
+82,5cd99d4bde30eff6ebccfc10,,Hobbit,Male,TA 2846,,TA 2926,,,Bungo Baggins,http://lotr.wikia.com//wiki/Bungo_Baggins
+83,5cd99d4bde30eff6ebccfc11,,Hobbit,Male,TA 2911,Unnamed wife,TA 3009,,,Dudo Baggins,http://lotr.wikia.com//wiki/Dudo_Baggins
+84,5cd99d4bde30eff6ebccfc12,,Hobbit,Female,TA 2814,Mungo Baggins,TA 2916,,,Laura (Grubb) Baggins,http://lotr.wikia.com//wiki/Laura_(Grubb)_Baggins
+85,5cd99d4bde30eff6ebccfc13,,Hobbit,male,TA 2864,Ruby Bolger,TA 2960,,,Fosco Baggins,http://lotr.wikia.com//wiki/Fosco_Baggins
+86,5cd99d4bde30eff6ebccfc14,,Hobbit,Male,TA 2908,Primula Brandybuck,TA 2980,,,Drogo Baggins,http://lotr.wikia.com//wiki/Drogo_Baggins
+87,5cd99d4bde30eff6ebccfc15,"1.06m (3'6"")",Hobbit,Male,"22 September ,TA 2968",,"Unknown (Last sighting ,September 29 ,3021,) (,SR 1421,)",,Brown,Frodo Baggins,http://lotr.wikia.com//wiki/Frodo_Baggins
+88,5cd99d4bde30eff6ebccfc16,,Hobbit,Male,TA 2860,Camellia (Sackville) Baggins,TA 2950,,,Longo Baggins,http://lotr.wikia.com//wiki/Longo_Baggins
+89,5cd99d4bde30eff6ebccfc17,,Hobbit,Male,TA 2807,Laura Grubb,TA 2900,,,Mungo Baggins,http://lotr.wikia.com//wiki/Mungo_Baggins
+90,5cd99d4bde30eff6ebccfc18,,Hobbit,Female,TA 2950,Milo Burrows,,,,Peony (Baggins) Burrows,http://lotr.wikia.com//wiki/Peony_(Baggins)_Burrows
+91,5cd99d4bde30eff6ebccfc19,,Hobbit,Male,TA 2816,Mimosa Bunce,TA 2911,,,Ponto Baggins,http://lotr.wikia.com//wiki/Ponto_Baggins
+92,5cd99d4bde30eff6ebccfc1a,,Hobbit,Male,TA 2946,Unnamed wife,,,,Ponto Baggins II,http://lotr.wikia.com//wiki/Ponto_Baggins_II
+93,5cd99d4bde30eff6ebccfc1b,,Dwarf,Male,TA 2763,,TA 2994,,White,Balin,http://lotr.wikia.com//wiki/Balin
+94,5cd99d4bde30eff6ebccfc1c,,Human,Male,FA 420,Unnamed wife,FA 460,,,Baragund,http://lotr.wikia.com//wiki/Baragund
+95,5cd99d4bde30eff6ebccfc1d,,Hobbit,Male,TA 2948,,,,,Porto Baggins,http://lotr.wikia.com//wiki/Porto_Baggins
+96,5cd99d4bde30eff6ebccfc1e,,Human,Male,FA 289,Unnamed wife,FA 380,Estolad,,Baran,http://lotr.wikia.com//wiki/Baran
+97,5cd99d4bde30eff6ebccfc1f,"1.76m / 5'9"" (film)",Human,Male,TA 2925,Unnamed wife,TA 3007,Dale,Brown (film),Bain,http://lotr.wikia.com//wiki/Bain
+98,5cd99d4bde30eff6ebccfc20,,Human,,,,,,,Baranor (Gondor),http://lotr.wikia.com//wiki/Baranor_(Gondor)
+99,5cd99d4bde30eff6ebccfc21,,Human,Male,TA 2898,Unnamed wife,TA 2977,Dale,Black (films),Bard,http://lotr.wikia.com//wiki/Bard
+100,5cd99d4bde30eff6ebccfc22,"6'2""",Human,Male,TA 2985,,"Early ,Fourth Age","Dale,Lake-town",,Bard II,http://lotr.wikia.com//wiki/Bard_II
+101,5cd99d4bde30eff6ebccfc23,,Human,Male,FA 316,Unnamed wife,,,,Beldir,http://lotr.wikia.com//wiki/Beldir
+102,5cd99d4bde30eff6ebccfc24,,Human,Female,"Mid-,First Age",Handir,,,Brown,Beldis,http://lotr.wikia.com//wiki/Beldis
+103,5cd99d4bde30eff6ebccfc25,,Human,Male,FA 402,Emeldir,FA 460,,Possibly dark,Barahir,http://lotr.wikia.com//wiki/Barahir
+104,5cd99d4bde30eff6ebccfc26,,Human,Male,TA 2545,Unnamed wife,TA 2655,,,Belecthor I,http://lotr.wikia.com//wiki/Belecthor_I
+105,5cd99d4bde30eff6ebccfc27,,Human,Male,TA 811,Unnamed wife,TA 1029,"Arnor,Arthedain",,Beleg of Arnor,http://lotr.wikia.com//wiki/Beleg_of_Arnor
+106,5cd99d4bde30eff6ebccfc28,,Human,Male,TA 2074,Unnamed wife,TA 2204,,,Belegorn,http://lotr.wikia.com//wiki/Belegorn
+107,5cd99d4bde30eff6ebccfc29,,Human,Male,"Late ,First Age",Unnamed wife,FA 460,,,Belegund,http://lotr.wikia.com//wiki/Belegund
+108,5cd99d4bde30eff6ebccfc2a,,Human,Male,FA 339,Adanel,,,,Belemir,http://lotr.wikia.com//wiki/Belemir
+109,5cd99d4bde30eff6ebccfc2b,,Human,Male,FA 292,Unnamed wife,,,,Belen,http://lotr.wikia.com//wiki/Belen
+110,5cd99d4bde30eff6ebccfc2c,Tall,Human,Male,,,"Before the ,War of the Ring",,Black,Beorn,http://lotr.wikia.com//wiki/Beorn
+111,5cd99d4bde30eff6ebccfc2d,,Human,Male,FA 340,,,,,Bereg,http://lotr.wikia.com//wiki/Bereg
+112,5cd99d4bde30eff6ebccfc2e,,Human,Male,TA 2700,Unnamed wife,TA 2811,,,Beregond,http://lotr.wikia.com//wiki/Beregond
+113,5cd99d4bde30eff6ebccfc2f,,Human,Male,TA 2976,Unnamed wife,Fourth Age,,,Beregond (Captain),http://lotr.wikia.com//wiki/Beregond_(Captain)
+114,5cd99d4bde30eff6ebccfc30,,Human,Male,"Early ,Fourth Age",,,,,Berelach,http://lotr.wikia.com//wiki/Berelach
+115,5cd99d4bde30eff6ebccfc31,Tall,Human,Male,FA 432,Lúthien Tinúviel,FA 466,,Dark,Beren,http://lotr.wikia.com//wiki/Beren
+116,5cd99d4bde30eff6ebccfc32,,Human,Male,FA 317,Unnamed wife,,,,Baranor,http://lotr.wikia.com//wiki/Baranor
+117,5cd99d4bde30eff6ebccfc33,,Human,Male,TA 2655,Unnamed wife,TA 2763,,,Beren (Steward),http://lotr.wikia.com//wiki/Beren_(Steward)
+118,5cd99d4bde30eff6ebccfc34,,Human,Male,"Mid ,First Age",Unnamed wife,,,,Beren (Belemir's son),http://lotr.wikia.com//wiki/Beren_(Belemir%27s_son)
+119,5cd99d4bde30eff6ebccfc35,,Human,Male,TA 3009,,,,,Bergil,http://lotr.wikia.com//wiki/Bergil
+120,5cd99d4bde30eff6ebccfc36,,Human,Male,TA 2290,Unnamed wife,TA 2412,Gondor,,Barahir (Steward),http://lotr.wikia.com//wiki/Barahir_(Steward)
+121,5cd99d4bde30eff6ebccfc37,"4'5"" (film)",Dwarf,Male,TA 2814,,UnknownFourth Age,,Black/ Grey (film),Bifur,http://lotr.wikia.com//wiki/Bifur
+122,5cd99d4bde30eff6ebccfc38,"1.25m (4'1"")",Hobbit,Male,"22 September ,TA 2890",None,"Unknown (Last sighting 29 SeptemberTA 3021,) (,SR 1421,)",,"Brown, later white",Bilbo Baggins,http://lotr.wikia.com//wiki/Bilbo_Baggins
+123,5cd99d4bde30eff6ebccfc39,,Human,Male,,,Late Third Age,"Lake-town,Dale,Rhûn,Dorwinion",,Bladorthin,http://lotr.wikia.com//wiki/Bladorthin
+124,5cd99d4bde30eff6ebccfc3a,,Human,Male,"Late ,Third Age",,"March 15 ,3019",,,Black Serpent,http://lotr.wikia.com//wiki/Black_Serpent
+125,5cd99d4bde30eff6ebccfc3b,,Hobbit,Male,TA 1560,,"Sometime after ,TA 1601",,,Blanco,http://lotr.wikia.com//wiki/Blanco
+126,5cd99d4bde30eff6ebccfc3c,,Human,Male,TA 2752,Unnamed wife,TA 2872,,,Belecthor II,http://lotr.wikia.com//wiki/Belecthor_II
+127,5cd99d4bde30eff6ebccfc3d,,Hobbit,Male,"Late ,Third Age",,"Early ,Fourth Age",,,Bob,http://lotr.wikia.com//wiki/Bob
+128,5cd99d4bde30eff6ebccfc3e,,Hobbit,Female,TA 2856,Hugo Boffin,TA 2948,,,Donnamira (Took) Boffin,http://lotr.wikia.com//wiki/Donnamira_(Took)_Boffin
+129,5cd99d4bde30eff6ebccfc3f,,Hobbit,Female,TA 2950,Griffo Boffin,,,,Daisy (Baggins) Boffin,http://lotr.wikia.com//wiki/Daisy_(Baggins)_Boffin
+130,5cd99d4bde30eff6ebccfc40,,Hobbit,Male,TA 2767,Unnamed wife,TA 2858,,,Bosco Boffin,http://lotr.wikia.com//wiki/Bosco_Boffin
+131,5cd99d4bde30eff6ebccfc41,,Hobbit,Male,TA 2978,,"Early ,Fourth Age",,,Folco Boffin,http://lotr.wikia.com//wiki/Folco_Boffin
+132,5cd99d4bde30eff6ebccfc42,,Hobbit,Female,TA 2904,Adalbert Bolger,TA 3004,,,Gerda (Boffin) Bolger,http://lotr.wikia.com//wiki/Gerda_(Boffin)_Bolger
+133,5cd99d4bde30eff6ebccfc43,,Hobbit,Male,TA 2946,Daisy Baggins,,,,Griffo Boffin,http://lotr.wikia.com//wiki/Griffo_Boffin
+134,5cd99d4bde30eff6ebccfc44,,Hobbit,Male,TA 2854,Donnamira Took,TA 2945,,,Hugo Boffin,http://lotr.wikia.com//wiki/Hugo_Boffin
+135,5cd99d4bde30eff6ebccfc45,,Hobbit,Female,"Late ,Third Age",Buffo Boffin,Late Third Age,,,Ivy (Goodenough) Boffin,http://lotr.wikia.com//wiki/Ivy_(Goodenough)_Boffin
+136,5cd99d4bde30eff6ebccfc46,,Hobbit,Male,TA 2769,None,,,,Basso Boffin,http://lotr.wikia.com//wiki/Basso_Boffin
+137,5cd99d4bde30eff6ebccfc47,,Hobbit,Male,TA 2812,Lavender Grubb,TA 2900,,,Otto Boffin,http://lotr.wikia.com//wiki/Otto_Boffin
+138,5cd99d4bde30eff6ebccfc48,,Hobbit,Male,TA 2860,Lavender Grubb,,,,Rollo Boffin,http://lotr.wikia.com//wiki/Rollo_Boffin
+139,5cd99d4bde30eff6ebccfc49,,Hobbit,Male,TA 2988,,"Early-,Fourth Age",,,Tosto Boffin,http://lotr.wikia.com//wiki/Tosto_Boffin
+140,5cd99d4bde30eff6ebccfc4a,,Hobbit,,,,,,,Vigo Boffin,http://lotr.wikia.com//wiki/Vigo_Boffin
+141,5cd99d4bde30eff6ebccfc4b,,Hobbit,Female,"before ,TA 2860",Rollo Boffin,,,,Druda Burrows Boffin,http://lotr.wikia.com//wiki/Druda_Burrows_Boffin
+142,5cd99d4bde30eff6ebccfc4c,,Hobbit,Male,TA 2942,Poppy Chubb-Baggins,FO 22,,Brown (movie),Filibert Bolger,http://lotr.wikia.com//wiki/Filibert_Bolger
+143,5cd99d4bde30eff6ebccfc4d,,Hobbit,Male,TA 2980,"unknown, possibly unmarried","Early ,Fourth Age",,,Fredegar Bolger,http://lotr.wikia.com//wiki/Fredegar_Bolger
+144,5cd99d4bde30eff6ebccfc4e,,Hobbit,Female,TA 2897,Herugar Bolger,"Late ,Third Age",,,Jessamine (Boffin) Bolger,http://lotr.wikia.com//wiki/Jessamine_(Boffin)_Bolger
+145,5cd99d4bde30eff6ebccfc4f,,Dwarf,Male,TA 2843,,,,Dark Brown (films),Bofur,http://lotr.wikia.com//wiki/Bofur
+146,5cd99d4bde30eff6ebccfc50,,Hobbit,Male,TA 2935,Rosamunda Took,FO 10,,,Odovacar Bolger,http://lotr.wikia.com//wiki/Odovacar_Bolger
+147,5cd99d4bde30eff6ebccfc51,,Hobbit,Female,TA 2938,Odovacar Bolger,,,,Rosamunda (Took) Bolger,http://lotr.wikia.com//wiki/Rosamunda_(Took)_Bolger
+148,5cd99d4bde30eff6ebccfc52,,Hobbit,Male,TA 2894,Unnamed wife,TA 2986,,,Jago Boffin,http://lotr.wikia.com//wiki/Jago_Boffin
+149,5cd99d4bde30eff6ebccfc53,,Hobbit,Male,"Late ,Third Age",Ivy Goodenough,"Late ,Third Age",,,Buffo Boffin,http://lotr.wikia.com//wiki/Buffo_Boffin
+150,5cd99d4bde30eff6ebccfc54,,Dwarf,Male,TA 2834,,,,Ginger,Bombur,http://lotr.wikia.com//wiki/Bombur
+151,5cd99d4bde30eff6ebccfc55,,Human,Male,"Late ,First Age",Unnamed wife,FA 473,,,Borlad,http://lotr.wikia.com//wiki/Borlad
+152,5cd99d4bde30eff6ebccfc56,,Human,Male,TA 3011,Unnamed wife,,,,Borlas,http://lotr.wikia.com//wiki/Borlas
+153,5cd99d4bde30eff6ebccfc57,,Human,Male,TA 2978,,"February 26 ,3019",,Dark (book) Light brown (movie),Boromir,http://lotr.wikia.com//wiki/Boromir
+154,5cd99d4bde30eff6ebccfc58,,Human,Male,FA 338,Unnamed wife,FA 432,,,Boromir (House of Bëor),http://lotr.wikia.com//wiki/Boromir_(House_of_B%C3%ABor)
+155,5cd99d4bde30eff6ebccfc59,,Human,Male,TA 2410,Unnamed wife,TA 2489,,,Boromir (Steward),http://lotr.wikia.com//wiki/Boromir_(Steward)
+156,5cd99d4bde30eff6ebccfc5a,,Hobbit,Male,TA 2904,Prisca Baggins,TA 3000,,,Wilibald Bolger,http://lotr.wikia.com//wiki/Wilibald_Bolger
+157,5cd99d4bde30eff6ebccfc5b,,Human,Male,"Late ,Third Age",,"April 15 ,2510",,,Borondir,http://lotr.wikia.com//wiki/Borondir
+158,5cd99d4bde30eff6ebccfc5c,,Human,Male,"Late ,First Age",,FA 473,,,Borthand,http://lotr.wikia.com//wiki/Borthand
+159,5cd99d4bde30eff6ebccfc5d,,Hobbit,Male,TA 2865,Primrose Boffin,,,,Blanco Bracegirdle,http://lotr.wikia.com//wiki/Blanco_Bracegirdle
+160,5cd99d4bde30eff6ebccfc5e,,Hobbit,Male,TA 2913,Unnamed wife,TA 3010,,,Bruno Bracegirdle,http://lotr.wikia.com//wiki/Bruno_Bracegirdle
+161,5cd99d4bde30eff6ebccfc5f,,Hobbit,Female,TA 2865,Blanco Bracegirdle,,,,Primrose Bracegirdle,http://lotr.wikia.com//wiki/Primrose_Bracegirdle
+162,5cd99d4bde30eff6ebccfc60,,Human,Male,TA 2957,Unnamed wife,"March 17 ,3019","Dale,Laketown",,Brand,http://lotr.wikia.com//wiki/Brand
+163,5cd99d4bde30eff6ebccfc61,,Human,,First Age,,FA 499,,,Brandir,http://lotr.wikia.com//wiki/Brandir
+164,5cd99d4bde30eff6ebccfc62,,Hobbit,Female,TA 2818,Marmadoc Brandybuck,,,,Adaldrida (Bolger) Brandybuck,http://lotr.wikia.com//wiki/Adaldrida_(Bolger)_Brandybuck
+165,5cd99d4bde30eff6ebccfc63,,Hobbit,Female,TA 2904,None,TA 2998,,,Amaranth Brandybuck,http://lotr.wikia.com//wiki/Amaranth_Brandybuck
+166,5cd99d4bde30eff6ebccfc64,,Human,Male,"Late ,First Age",,FA 473,,,Borlach,http://lotr.wikia.com//wiki/Borlach
+167,5cd99d4bde30eff6ebccfc65,,Hobbit,Female,TA 2936,Saradoc Brandybuck,,,,Esmeralda Brandybuck,http://lotr.wikia.com//wiki/Esmeralda_Brandybuck
+168,5cd99d4bde30eff6ebccfc66,,Hobbit,Female,TA 2985,Meriadoc Brandybuck,"Before ,FO 63",,Dark Blonde,Estella (Bolger) Brandybuck,http://lotr.wikia.com//wiki/Estella_(Bolger)_Brandybuck
+169,5cd99d4bde30eff6ebccfc67,,Hobbit,Female,TA 2954,Seredic Brandybuck,,,,Hilda Brandybuck,http://lotr.wikia.com//wiki/Hilda_Brandybuck
+170,5cd99d4bde30eff6ebccfc68,,Hobbit,Male,SR 1175,Hanna Goldworthy,SR 1277,Buckland,,Madoc Brandybuck,http://lotr.wikia.com//wiki/Madoc_Brandybuck
+171,5cd99d4bde30eff6ebccfc69,,Hobbit,Female,SR 1385,,,,,Melilot Brandybuck,http://lotr.wikia.com//wiki/Melilot_Brandybuck
+172,5cd99d4bde30eff6ebccfc6a,,Hobbit,Female,TA 2983,,"Early-,Fourth Age",,Dark Brown,Mentha Brandybuck,http://lotr.wikia.com//wiki/Mentha_Brandybuck
+173,5cd99d4bde30eff6ebccfc6b,,Dwarf,Male,TA 2450,,TA 2711,,,Borin,http://lotr.wikia.com//wiki/Borin
+174,5cd99d4bde30eff6ebccfc6c,,Hobbit,Female,TA 2860,Gorbadoc Brandybuck,TA 2960,,,Mirabella (Took) Brandybuck,http://lotr.wikia.com//wiki/Mirabella_(Took)_Brandybuck
+175,5cd99d4bde30eff6ebccfc6d,,Hobbit,Female,TA 2920,Drogo Baggins,TA 2980,,,Primula (Brandybuck) Baggins,http://lotr.wikia.com//wiki/Primula_(Brandybuck)_Baggins
+176,5cd99d4bde30eff6ebccfc6e,,Hobbit,Male,TA 2948,Hilda Bracegirdle,,,,Seredic Brandybuck,http://lotr.wikia.com//wiki/Seredic_Brandybuck
+177,5cd99d4bde30eff6ebccfc6f,,Human,Male,TA 2512,Unnamed wife,TA 2570,Rohan,,Brego,http://lotr.wikia.com//wiki/Brego
+178,5cd99d4bde30eff6ebccfc70,,Human,Male,"Late ,First Age",Unnamed wife,FA 455,,,Bregolas,http://lotr.wikia.com//wiki/Bregolas
+179,5cd99d4bde30eff6ebccfc71,,Human,Male,"Mid ,First Age",Unnamed wife,Late First Age,,,Bregor,http://lotr.wikia.com//wiki/Bregor
+180,5cd99d4bde30eff6ebccfc72,,Hobbit,Female,TA 2857,Uffo Boffin,,,,Sapphira (Brockhouse) Boffin,http://lotr.wikia.com//wiki/Sapphira_(Brockhouse)_Boffin
+181,5cd99d4bde30eff6ebccfc73,,Hobbit,Male,TA 1930,,TA 2031,,,Bucca of the Marish,http://lotr.wikia.com//wiki/Bucca_of_the_Marish
+182,5cd99d4bde30eff6ebccfc74,,Hobbit,Female,TA 2913,Rufus Burrows,TA 3012,,,Asphodel (Brandybuck) Burrows,http://lotr.wikia.com//wiki/Asphodel_(Brandybuck)_Burrows
+183,5cd99d4bde30eff6ebccfc75,,Hobbit,Male,SR 1347,Peony Baggins,,,,Milo Burrows,http://lotr.wikia.com//wiki/Milo_Burrows
+184,5cd99d4bde30eff6ebccfc76,,Hobbit,Female,TA 2994,None,,,,Celandine Brandybuck,http://lotr.wikia.com//wiki/Celandine_Brandybuck
+185,5cd99d4bde30eff6ebccfc77,,Human,Male,FA 262,Unnamed wife,FA 355,,,Bëor,http://lotr.wikia.com//wiki/B%C3%ABor
+186,5cd99d4bde30eff6ebccfc78,,Human,Male,"Late ,First Age",Unnamed wife,FA 473,,,Bór,http://lotr.wikia.com//wiki/B%C3%B3r
+187,5cd99d4bde30eff6ebccfc79,,Human,Male,TA 1736,Unnamed wife,TA 1936,Gondor,,Calimehtar,http://lotr.wikia.com//wiki/Calimehtar
+188,5cd99d4bde30eff6ebccfc7a,,Hobbit,Male,TA 2996,,,,,Minto Burrows,http://lotr.wikia.com//wiki/Minto_Burrows
+189,5cd99d4bde30eff6ebccfc7b,,Human,Male,First Age,Unnamed wife,First Age,,,Boron,http://lotr.wikia.com//wiki/Boron
+190,5cd99d4bde30eff6ebccfc7c,"1.38m (4'6"")",Hobbit,Male,TA 2982,Estella (Bolger) Brandybuck,FO 65,,Golden yellow (film),Meriadoc Brandybuck,http://lotr.wikia.com//wiki/Meriadoc_Brandybuck
+191,5cd99d4bde30eff6ebccfc7d,,Human,Male,TA 1058,Unnamed wife,TA 1304,Gondor,,Calmacil,http://lotr.wikia.com//wiki/Calmacil
+192,5cd99d4bde30eff6ebccfc7e,Tall,Elf,Male,YT,Galadriel,"Still alive, departed over the sea in the early Fourth Age","Eregion,Lothlórien,Caras Galadhon",Silver,Celeborn,http://lotr.wikia.com//wiki/Celeborn
+193,5cd99d4bde30eff6ebccfc7f,,Elf,Male,YT,,"SA 1697 ,War of the Elves and Sauron",Eregion,Dark,Celebrimbor,http://lotr.wikia.com//wiki/Celebrimbor
+194,5cd99d4bde30eff6ebccfc80,,Human,Male,TA 1062,Unnamed wife,TA 1272,Arthedain,,Celebrindor,http://lotr.wikia.com//wiki/Celebrindor
+195,5cd99d4bde30eff6ebccfc81,,Elf,Female,"Between the years ,SA 350, and SA 400",Elrond,"Still alive; Departed to ,Aman, in ,TA 2510",,Possibly silver,Celebrían,http://lotr.wikia.com//wiki/Celebr%C3%ADan
+196,5cd99d4bde30eff6ebccfc82,,Elf,Male,"During in the ,Noontide of Valinor",None,FA 506,,Fair,Celegorm,http://lotr.wikia.com//wiki/Celegorm
+197,5cd99d4bde30eff6ebccfc83,,Human,Male,TA 979,Unnamed wife,TA 1191,Arthedain,,Celepharn,http://lotr.wikia.com//wiki/Celepharn
+198,5cd99d4bde30eff6ebccfc84,,Human,Male,SA 3399,Unnamed wife,TA 238,Gondor,,Cemendur,http://lotr.wikia.com//wiki/Cemendur
+199,5cd99d4bde30eff6ebccfc85,,Human,Male,SA 575,Unnamed wife,,,,Cemendur (son of Axantur),http://lotr.wikia.com//wiki/Cemendur_(son_of_Axantur)
+200,5cd99d4bde30eff6ebccfc86,,Human,Male,"Late ,Third Age",,,,,Ceorl,http://lotr.wikia.com//wiki/Ceorl
+201,5cd99d4bde30eff6ebccfc87,,Human,Male,SA 512,Unnamed wife,SA 900,,,Caliondo,http://lotr.wikia.com//wiki/Caliondo
+202,5cd99d4bde30eff6ebccfc88,,Human,Male,TA 2449,Unnamed wife,TA 2567,,,Cirion,http://lotr.wikia.com//wiki/Cirion
+203,5cd99d4bde30eff6ebccfc89,,Human,Male,TA 820,Unnamed wife,TA 1015,Gondor,,Ciryandil,http://lotr.wikia.com//wiki/Ciryandil
+204,5cd99d4bde30eff6ebccfc8a,Tall,Human,Male,"Mid ,Second Age",,"After ,SA 1700",,Black,Ciryatur,http://lotr.wikia.com//wiki/Ciryatur
+205,5cd99d4bde30eff6ebccfc8b,,Human,Male,SA 3379,"Unknown, possibly known",TA 2,,,Ciryon,http://lotr.wikia.com//wiki/Ciryon
+206,5cd99d4bde30eff6ebccfc8c,,Hobbit,Male,TA 2886,None,,,,Bowman Cotton,http://lotr.wikia.com//wiki/Bowman_Cotton
+207,5cd99d4bde30eff6ebccfc8d,,Hobbit,Female,"Late ,Third Age",Farmer Cotton,,,,Lily Cotton,http://lotr.wikia.com//wiki/Lily_Cotton
+208,5cd99d4bde30eff6ebccfc8e,,Hobbit,Female,TA 2983,Tolman Cotton,,,,Marigold (Gamgee) Cotton,http://lotr.wikia.com//wiki/Marigold_(Gamgee)_Cotton
+209,5cd99d4bde30eff6ebccfc8f,,Hobbit,Female,TA 2984,Sam Gamgee,FO 61,,Light brown (film),Rosie Cotton,http://lotr.wikia.com//wiki/Rosie_Cotton
+210,5cd99d4bde30eff6ebccfc90,,Hobbit,Male,TA 2941,Lily Brown,FO 20,,,Tolman Cotton,http://lotr.wikia.com//wiki/Tolman_Cotton
+211,5cd99d4bde30eff6ebccfc91,,Human,Male,TA 1259,Unnamed wife,TA 1447,Gondor,,Castamir the Usurper,http://lotr.wikia.com//wiki/Castamir_the_Usurper
+212,5cd99d4bde30eff6ebccfc92,,Elf,Male,"During the ,Noontide of Valinor",Unnamed wife,FA 506,Himlad,Dark,Curufin,http://lotr.wikia.com//wiki/Curufin
+213,5cd99d4bde30eff6ebccfc93,Very tall,Elf,Male,"YT, 1050. Age = 11,484.9 Sun Years or 1,198.6 Valian Years as of FO 121 (death of Arwen).",Presumably none,"Still alive, sailed into the ,West, sometime during the ,Fourth Age last of all elves to leave ,Middle-earth,.",,"Silver, bearded",Círdan,http://lotr.wikia.com//wiki/C%C3%ADrdan
+214,5cd99d4bde30eff6ebccfc94,,Human,Male,"Late ,First Age",,FA 460,,,Dairuin,http://lotr.wikia.com//wiki/Dairuin
+215,5cd99d4bde30eff6ebccfc95,,Human,Male,"Late ,Third Age",,TA 3019,,Dark,Damrod,http://lotr.wikia.com//wiki/Damrod
+216,5cd99d4bde30eff6ebccfc96,,Dwarf,,,,,,,User:Deathshriek,http://lotr.wikia.com//wiki/User:Deathshriek
+217,5cd99d4bde30eff6ebccfc97,,Elf,Male,YT,,YT 1497,Ossiriand,,Denethor (First Age),http://lotr.wikia.com//wiki/Denethor_(First_Age)
+218,5cd99d4bde30eff6ebccfc98,,Hobbit,Male,TA 2903,Unnamed wife,TA 2999,,,Falco Chubb-Baggins,http://lotr.wikia.com//wiki/Falco_Chubb-Baggins
+219,5cd99d4bde30eff6ebccfc99,,Elf,Male,"During the ,Noontide of Valinor",Unnamed wife,FA 506,,Dark,Caranthir,http://lotr.wikia.com//wiki/Caranthir
+220,5cd99d4bde30eff6ebccfc9a,,Human,Male,TA 2930,Finduilas,"March 15 ,3019",,"Dark, grey (in old age)",Denethor II,http://lotr.wikia.com//wiki/Denethor_II
+221,5cd99d4bde30eff6ebccfc9b,,Hobbit,Female,TA 2995,Peregrin Took,"Before ,FO 63",,Brown (film),Diamond Took,http://lotr.wikia.com//wiki/Diamond_Took
+222,5cd99d4bde30eff6ebccfc9c,,Hobbit,Male,SR 1316,,SR 1410,,,Dinodas Brandybuck,http://lotr.wikia.com//wiki/Dinodas_Brandybuck
+223,5cd99d4bde30eff6ebccfc9d,,Human,Male,TA 2328,Possibly none,TA 2435,,,Dior (Steward),http://lotr.wikia.com//wiki/Dior_(Steward)
+224,5cd99d4bde30eff6ebccfc9e,,Hobbit,Male,,,,,,Dodinas Brandybuck,http://lotr.wikia.com//wiki/Dodinas_Brandybuck
+225,5cd99d4bde30eff6ebccfc9f,,Dwarf,Male,TA 2827,,,,Gray (film),Dori,http://lotr.wikia.com//wiki/Dori
+226,5cd99d4bde30eff6ebccfca0,,Human,Males,"Late ,First Age",,FA 499,,,Dorlas,http://lotr.wikia.com//wiki/Dorlas
+227,5cd99d4bde30eff6ebccfca1,,Human,Male,TA 2375,Unnamed wife,TA 2477,,,Denethor I,http://lotr.wikia.com//wiki/Denethor_I
+228,5cd99d4bde30eff6ebccfca2,Tall,Human,Male,"Late-,Third Age",Unnamed wife,"Early-,Fourth Age",,Dark (Decipher Card),Duinhir,http://lotr.wikia.com//wiki/Duinhir
+229,5cd99d4bde30eff6ebccfca3,,Dwarf,Male,FO 2,,,Khazad-dum,,Durin VII,http://lotr.wikia.com//wiki/Durin_VII
+230,5cd99d4bde30eff6ebccfca4,,Dwarf,Male,TA 2772,,FO 91,,Brown,Dwalin,http://lotr.wikia.com//wiki/Dwalin
+231,5cd99d4bde30eff6ebccfca5,,Dwarf,Male,TA 2440,Unnamed wife,TA 2589,Grey Mountains,,Dáin I,http://lotr.wikia.com//wiki/D%C3%A1in_I
+232,5cd99d4bde30eff6ebccfca6,,Human,Male,"Late ,Third Age",,,,,Dervorin,http://lotr.wikia.com//wiki/Dervorin
+233,5cd99d4bde30eff6ebccfca7,,Hobbit,Male,"Between TA 2400 and ,TA 2430",None,TA 2463,,Dark-brown,Déagol,http://lotr.wikia.com//wiki/D%C3%A9agol
+234,5cd99d4bde30eff6ebccfca8,,Human,Male,TA 2644,,TA 2718,Rohan,,Déor,http://lotr.wikia.com//wiki/D%C3%A9or
+235,5cd99d4bde30eff6ebccfca9,,Human,Male,"Late ,Third Age",,"Mid ,March ,3019",,,Derufin,http://lotr.wikia.com//wiki/Derufin
+236,5cd99d4bde30eff6ebccfcaa,,Human,Male,"Late ,Third Age",,TA 3019,,,Duilin,http://lotr.wikia.com//wiki/Duilin
+237,5cd99d4bde30eff6ebccfcab,4'5 - 5' (Estimate),Dwarf,Male,TA 2767,Unnamed wife,"March 17 ,3019",Lonely Mountain,,Dáin II Ironfoot,http://lotr.wikia.com//wiki/D%C3%A1in_II_Ironfoot
+238,5cd99d4bde30eff6ebccfcac,,Human,Male,"Late ,Third Age",,"March 15 ,3019",,,Déorwine,http://lotr.wikia.com//wiki/D%C3%A9orwine
+239,5cd99d4bde30eff6ebccfcad,,Human,Male,TA 2838,Ivorwen,"After ,TA 2929",,Brown (film),Dírhael,http://lotr.wikia.com//wiki/D%C3%ADrhael
+240,5cd99d4bde30eff6ebccfcae,,Human,Male,"Late ,First Age",,Late First Age,,,Dírhavel,http://lotr.wikia.com//wiki/D%C3%ADrhavel
+241,5cd99d4bde30eff6ebccfcaf,,Dwarf,Female,TA 2760,,"After ,TA 2941",,,Dís,http://lotr.wikia.com//wiki/D%C3%ADs
+242,5cd99d4bde30eff6ebccfcb0,,Human,Male,"Late ,Third Age",,"March 15 ,3019",,,Dúnhere,http://lotr.wikia.com//wiki/D%C3%BAnhere
+243,5cd99d4bde30eff6ebccfcb1,,Human,Male,TA 2886,Unnamed wife,TA 2984,,,Ecthelion II,http://lotr.wikia.com//wiki/Ecthelion_II
+244,5cd99d4bde30eff6ebccfcb2,,Human,Male,TA 2600,Possibly none,TA 2698,,,Ecthelion I,http://lotr.wikia.com//wiki/Ecthelion_I
+245,5cd99d4bde30eff6ebccfcb3,,Elf,Male,,,FA 465,,,Edrahil,http://lotr.wikia.com//wiki/Edrahil
+246,5cd99d4bde30eff6ebccfcb4,,Human,Male,TA 2626,Unnamed wife,TA 2743,,,Egalmoth,http://lotr.wikia.com//wiki/Egalmoth
+247,5cd99d4bde30eff6ebccfcb5,,Hobbit,Female,"Late ,Third Age",Paladin Took II,Late Third Age,,,Eglantine (Banks) Took,http://lotr.wikia.com//wiki/Eglantine_(Banks)_Took
+248,5cd99d4bde30eff6ebccfcb6,,Human,Female,"Mid ,First Age",Gorlim,"Between ,FA 455, - ,FA 460",,,Eilinel,http://lotr.wikia.com//wiki/Eilinel
+249,5cd99d4bde30eff6ebccfcb7,,Human,Male,"Early ,Second Age",Silmariën,Early Second Age,,,Elatan,http://lotr.wikia.com//wiki/Elatan
+250,5cd99d4bde30eff6ebccfcb8,,Human,Male,TA 87,Unnamed wife,TA 339,Arnor,,Eldacar (King of Arnor),http://lotr.wikia.com//wiki/Eldacar_(King_of_Arnor)
+251,5cd99d4bde30eff6ebccfcb9,,Human,Male,FO 43,,"Before ,FO 220","Reunited Kingdom,Arnor,Gondor",Dark,Eldarion,http://lotr.wikia.com//wiki/Eldarion
+252,5cd99d4bde30eff6ebccfcba,,Human,Male,TA 1255,Unnamed wife,TA 1490,Gondor,,Eldacar (King of Gondor),http://lotr.wikia.com//wiki/Eldacar_(King_of_Gondor)
+253,5cd99d4bde30eff6ebccfcbb,,Elf,,,,Presumably still alive,,,Elemmírë (elf),http://lotr.wikia.com//wiki/Elemm%C3%ADr%C3%AB_(elf)
+254,5cd99d4bde30eff6ebccfcbc,"7' 10""",Human,Male,SA 3119,Unnamed wife,SA 3441,"Arnor,Gondor",Brown,Elendil,http://lotr.wikia.com//wiki/Elendil
+255,5cd99d4bde30eff6ebccfcbd,,Human,Male,SA 3299,Unnamed wife,TA 2,,,Elendur,http://lotr.wikia.com//wiki/Elendur
+256,5cd99d4bde30eff6ebccfcbe,,Human,Male,TA 552,Unnamed wife,TA 777,Arnor,,Elendur of Arnor,http://lotr.wikia.com//wiki/Elendur_of_Arnor
+257,5cd99d4bde30eff6ebccfcbf,,Human,Male,,,,,,Elboron,http://lotr.wikia.com//wiki/Elboron
+258,5cd99d4bde30eff6ebccfcc0,,Elf,Female,YT,Angrod,,,,Eldalótë,http://lotr.wikia.com//wiki/Eldal%C3%B3t%C3%AB
+259,5cd99d4bde30eff6ebccfcc1,Tall,Elf,Female,YT,Turgon,YT 1500,,Golden,Elenwë,http://lotr.wikia.com//wiki/Elenw%C3%AB
+260,5cd99d4bde30eff6ebccfcc2,,Human,Male,TA 2985,,"Early ,Fourth Age",,Dark,Elfhelm,http://lotr.wikia.com//wiki/Elfhelm
+261,5cd99d4bde30eff6ebccfcc3,,Human,Female,TA 2950,Théoden,TA 2978,Rohan,,Elfhild,http://lotr.wikia.com//wiki/Elfhild
+262,5cd99d4bde30eff6ebccfcc4,,Human,Male,FO 8,,FO 103,Rohan,,Elfwine,http://lotr.wikia.com//wiki/Elfwine
+263,5cd99d4bde30eff6ebccfcc5,Tall,Elf,Male,TA 130,,,,Dark,Elladan and Elrohir,http://lotr.wikia.com//wiki/Elladan_and_Elrohir
+264,5cd99d4bde30eff6ebccfcc6,,Human,Female,FA 406,Barahir,,,,Emeldir,http://lotr.wikia.com//wiki/Emeldir
+265,5cd99d4bde30eff6ebccfcc7,,Human,Male,TA 2987,Unnamed wife,FO 57,,,Elphir,http://lotr.wikia.com//wiki/Elphir
+266,5cd99d4bde30eff6ebccfcc8,Tall,Elf,Male,FA 532,Celebrían,"Still alive; departed to ,Aman, on ,September 29 ,3021",Rivendell,Dark,Elrond,http://lotr.wikia.com//wiki/Elrond
+267,5cd99d4bde30eff6ebccfcc9,,Elf,Male,"Unknown, Awakened in the Years of the Trees",Enelyë,,,,Enel,http://lotr.wikia.com//wiki/Enel
+268,5cd99d4bde30eff6ebccfcca,,Elf,Female,"Unknown, Awakened in the ,Years of the Trees",Enel,,,,Enelyë,http://lotr.wikia.com//wiki/Enely%C3%AB
+269,5cd99d4bde30eff6ebccfccb,,Elf,Male,"Unknown, possibly in the ,First Age",,,,,Enerdhil,http://lotr.wikia.com//wiki/Enerdhil
+270,5cd99d4bde30eff6ebccfccd,,Human,Male,TA 2990,,"Early ,Fourth Age",,,Erchirion,http://lotr.wikia.com//wiki/Erchirion
+271,5cd99d4bde30eff6ebccfcce,,Elf,Male,unknown,unknown,unknown,,,Erellont,http://lotr.wikia.com//wiki/Erellont
+272,5cd99d4bde30eff6ebccfccf,,Human,Female,SA 771,Tar-Aldarion,SA 985,Númenor,Dark,Erendis,http://lotr.wikia.com//wiki/Erendis
+273,5cd99d4bde30eff6ebccfcd0,,Elf,Male,,,,,,Erestor,http://lotr.wikia.com//wiki/Erestor
+274,5cd99d4bde30eff6ebccfcd2,,Human,Male,TA 2485,Unnamed wife,TA 2545,Rohan,Blond,Eorl the Young,http://lotr.wikia.com//wiki/Eorl_the_Young
+275,5cd99d4bde30eff6ebccfcd3,Tall,Human,Male,"Late ,Third Age",,"early ,Fourth Age",,,Erkenbrand,http://lotr.wikia.com//wiki/Erkenbrand
+276,5cd99d4bde30eff6ebccfcd4,,Human,Male,"Late ,Second Age",,"Early ,Third Age",,,Estelmo,http://lotr.wikia.com//wiki/Estelmo
+277,5cd99d4bde30eff6ebccfcd5,,Human,Male,TA 1999,Unnamed wife,TA 2116,,,Eradan,http://lotr.wikia.com//wiki/Eradan
+278,5cd99d4bde30eff6ebccfcd6,,Human,Male,SA 361,Unnamed wife,"Early ,Second Age",,,Eärendur of Númenor,http://lotr.wikia.com//wiki/E%C3%A4rendur_of_N%C3%BAmenor
+279,5cd99d4bde30eff6ebccfcd7,,Human,Male,TA 736,Unnamed wife,TA 936,Gondor,,Eärnil I,http://lotr.wikia.com//wiki/E%C3%A4rnil_I
+280,5cd99d4bde30eff6ebccfcd8,,Human,Male,TA 1883,Unnamed wife,TA 2043,Gondor,,Eärnil II,http://lotr.wikia.com//wiki/E%C3%A4rnil_II
+281,5cd99d4bde30eff6ebccfcd9,,Human,Male,TA 1928,None,TA 2050,Gondor,,Eärnur,http://lotr.wikia.com//wiki/E%C3%A4rnur
+282,5cd99d4bde30eff6ebccfcda,,Elf,Female,Years of the Trees,Finarfin,Still alive,,Star-like,Eärwen,http://lotr.wikia.com//wiki/E%C3%A4rwen
+283,5cd99d4bde30eff6ebccfcdb,,Human,Male,"Late ,Second Age",,Late Second Age,,,Eärendur (Lord of Andúnië),http://lotr.wikia.com//wiki/E%C3%A4rendur_(Lord_of_And%C3%BAni%C3%AB)
+284,5cd99d4bde30eff6ebccfcdc,Tall,Elf,Male,YT,Aredhel,FA 400,Nan Elmoth,Dark,Eöl,http://lotr.wikia.com//wiki/E%C3%B6l
+285,5cd99d4bde30eff6ebccfcdd,,Human,Male,TA 48,Unnamed wife,TA 324,Gondor,,Eärendil of Gondor,http://lotr.wikia.com//wiki/E%C3%A4rendil_of_Gondor
+286,5cd99d4bde30eff6ebccfcde,,Human,Male,TA 640,Unnamed wife,TA 861,,,Eärendur of Arnor,http://lotr.wikia.com//wiki/E%C3%A4rendur_of_Arnor
+287,5cd99d4bde30eff6ebccfcdf,,Human,Male,"Mid ,Third Age",,TA 1944,,,Faramir (son of Ondoher),http://lotr.wikia.com//wiki/Faramir_(son_of_Ondoher)
+288,5cd99d4bde30eff6ebccfce0,,Human,Male,TA 2858,,TA 2885,,,Fastred,http://lotr.wikia.com//wiki/Fastred
+289,5cd99d4bde30eff6ebccfce1,,Human,Male,"Late ,Third Age",,"March 15 ,3019",,,Fastred (Pelennor Fields),http://lotr.wikia.com//wiki/Fastred_(Pelennor_Fields)
+290,5cd99d4bde30eff6ebccfce2,,Human,Male,TA 2870,,TA 2953,Rohan,,Fengel,http://lotr.wikia.com//wiki/Fengel
+291,5cd99d4bde30eff6ebccfce3,,Hobbit,Male,TA 2701,Unnamed wife,TA 2801,,,Ferumbras Took II,http://lotr.wikia.com//wiki/Ferumbras_Took_II
+292,5cd99d4bde30eff6ebccfce4,,Elf,Male,YT 1230,Eärwen,Still Alive,Tirion,Golden,Finarfin,http://lotr.wikia.com//wiki/Finarfin
+293,5cd99d4bde30eff6ebccfce5,,Human,Male,Fourth Age,,"sometime after ,FO 172",,,Findegil,http://lotr.wikia.com//wiki/Findegil
+294,5cd99d4bde30eff6ebccfce6,,Elf,Female,Years of the Trees,,,,,Findis,http://lotr.wikia.com//wiki/Findis
+295,5cd99d4bde30eff6ebccfce7,,Elf,Female,First Age,"None; betrothed to ,Gwindor, but never married.",FA 495,,Golden,Finduilas,http://lotr.wikia.com//wiki/Finduilas
+296,5cd99d4bde30eff6ebccfce8,,Human,Female,TA 2950,Denethor II,TA 2988,,Dark,Finduilas of Dol Amroth,http://lotr.wikia.com//wiki/Finduilas_of_Dol_Amroth
+297,5cd99d4bde30eff6ebccfce9,,Elf,Male,YT 1190,Anairë,FA 455,"Hithlum,Beleriand",Dark,Fingolfin,http://lotr.wikia.com//wiki/Fingolfin
+298,5cd99d4bde30eff6ebccfcea,,Dwarf,Male,TA 2560,Unnamed wife,TA 2803,,,Farin,http://lotr.wikia.com//wiki/Farin
+299,5cd99d4bde30eff6ebccfceb,,Elf,Male,"YT during the ,Noontide of Valinor",,FA 472,Hithlum,Dark,Fingon,http://lotr.wikia.com//wiki/Fingon
+300,5cd99d4bde30eff6ebccfcec,,Elf,Male,YT 1300,"Loved ,Amarië but they never married",FA 465,,Golden,Finrod,http://lotr.wikia.com//wiki/Finrod
+301,5cd99d4bde30eff6ebccfced,,Elf,Male,"YT, and perhaps Firstborn","Míriel Serindë then ,Indis",YT 1495,"Tirion,Formenos",Black,Finwë,http://lotr.wikia.com//wiki/Finw%C3%AB
+302,5cd99d4bde30eff6ebccfcee,,Dwarf,Male,"Late ,Third Age",,TA 2994,,,Flói,http://lotr.wikia.com//wiki/Fl%C3%B3i
+303,5cd99d4bde30eff6ebccfcef,,Human,Male,TA 2983,owyn,"February 26 ,82",Minas Ithil,Raven,Faramir,http://lotr.wikia.com//wiki/Faramir
+304,5cd99d4bde30eff6ebccfcf0,,Human,Male,TA 2804,Unnamed wife,TA 2864,,,Folca,http://lotr.wikia.com//wiki/Folca
+305,5cd99d4bde30eff6ebccfcf1,,Hobbit,Male,SR 1210,Pansy Baggins,,Shire,,Fastolph Bolger,http://lotr.wikia.com//wiki/Fastolph_Bolger
+306,5cd99d4bde30eff6ebccfcf2,,Human,Male,TA 2858,,TA 2885,,,Folcred,http://lotr.wikia.com//wiki/Folcred
+307,5cd99d4bde30eff6ebccfcf3,,Human,Male,"Late ,Third Age",unknown,TA 3019,,,Forlong,http://lotr.wikia.com//wiki/Forlong
+308,5cd99d4bde30eff6ebccfcf4,,Human,Male,TA 2830,Unnamed wife,TA 2903,Rohan,,Folcwine,http://lotr.wikia.com//wiki/Folcwine
+309,5cd99d4bde30eff6ebccfcf5,,Hobbit,Male,TA 2745,Unnamed wife,TA 2848,,,Fortinbras Took I,http://lotr.wikia.com//wiki/Fortinbras_Took_I
+310,5cd99d4bde30eff6ebccfcf6,,Human,Male,"Mid ,Third Age","Unknown, but possible since he had descendants",TA 1944,,,Forthwini,http://lotr.wikia.com//wiki/Forthwini
+311,5cd99d4bde30eff6ebccfcf7,,Human,Male,"Late ,First Age","Unknown, probably none",Late First Age,,Fair,Forweg,http://lotr.wikia.com//wiki/Forweg
+312,5cd99d4bde30eff6ebccfcf8,,Human,Male,TA 2698,Unnamed wife,TA 2754,,Dark,Freca,http://lotr.wikia.com//wiki/Freca
+313,5cd99d4bde30eff6ebccfcf9,,Human,Male,TA 1967,"Unknown, probably as he had descendants","Unknown, sometime after ,TA 2000",,,Fram,http://lotr.wikia.com//wiki/Fram
+314,5cd99d4bde30eff6ebccfcfa,,Dwarf,Male,TA 2751,,TA 2799,,,Frerin,http://lotr.wikia.com//wiki/Frerin
+315,5cd99d4bde30eff6ebccfcfb,,Human,Male,TA 1940,Unnamed wife,TA 2001,,,Frumgar,http://lotr.wikia.com//wiki/Frumgar
+316,5cd99d4bde30eff6ebccfcfc,,Human,Male,TA 2594,,TA 2680,Rohan,,Fréawine,http://lotr.wikia.com//wiki/Fr%C3%A9awine
+317,5cd99d4bde30eff6ebccfcfd,,Dwarf,Male,TA 2552,,TA 2589,,,Frór,http://lotr.wikia.com//wiki/Fr%C3%B3r
+318,5cd99d4bde30eff6ebccfcfe,,Dwarf,Male,"Late ,Third Age",,November 102994,,,Frár,http://lotr.wikia.com//wiki/Fr%C3%A1r
+319,5cd99d4bde30eff6ebccfcff,,Dwarf,Male,TA 2662,Unnamed wife,TA 2799,,,Fundin,http://lotr.wikia.com//wiki/Fundin
+320,5cd99d4bde30eff6ebccfd00,,Human,Male,TA 2570,Unnamed wife,TA 2659,Rohan,,Fréa,http://lotr.wikia.com//wiki/Fr%C3%A9a
+321,5cd99d4bde30eff6ebccfd01,,Human,Male,TA 2726,Unnamed wife,TA 2798,Rohan,,Fréaláf Hildeson,http://lotr.wikia.com//wiki/Fr%C3%A9al%C3%A1f_Hildeson
+322,5cd99d4bde30eff6ebccfd02,Tall,Elf,Male,YT 1169,Nerdanel,YT 1497,"Tirion,Formenos",Raven,Fëanor,http://lotr.wikia.com//wiki/F%C3%ABanor
+323,5cd99d4bde30eff6ebccfd03,,Human,Female,TA 1896,Arvedui,,Arthedain,,Fíriel,http://lotr.wikia.com//wiki/F%C3%ADriel
+324,5cd99d4bde30eff6ebccfd04,,Dwarf,Male,TA 2859,None,November 23TA 2941,,Yellow,Fíli and Kíli,http://lotr.wikia.com//wiki/F%C3%ADli_and_K%C3%ADli
+325,5cd99d4bde30eff6ebccfd05,,Dwarf,,,,,,,Galar,http://lotr.wikia.com//wiki/Galar
+326,5cd99d4bde30eff6ebccfd06,Tall,Elf,Female,YT 1362,Celeborn,"Still alive: Departed over the sea on ,September 29 ,3021","Eregion,Lothlórien,Caras Galadhon",Golden,Galadriel,http://lotr.wikia.com//wiki/Galadriel
+327,5cd99d4bde30eff6ebccfd07,Tall,Human,Male,FA 417,Hareth,FA 462,,,Galdor,http://lotr.wikia.com//wiki/Galdor
+328,5cd99d4bde30eff6ebccfd08,,Elf,Male,,,,,,Galion,http://lotr.wikia.com//wiki/Galion
+329,5cd99d4bde30eff6ebccfd09,,Hobbit,Female,TA 2972,,FO 54,,,Daisy Gamgee I,http://lotr.wikia.com//wiki/Daisy_Gamgee_I
+330,5cd99d4bde30eff6ebccfd0a,,Hobbit,Male,FO 2,Unnamed wife,FO,,,Frodo Gardner,http://lotr.wikia.com//wiki/Frodo_Gardner
+331,5cd99d4bde30eff6ebccfd0b,,Hobbit,Male,TA 2965,None,,,,Hamson Gamgee,http://lotr.wikia.com//wiki/Hamson_Gamgee
+332,5cd99d4bde30eff6ebccfd0c,,Hobbit,Female,TA 2976,,,,,May Gamgee,http://lotr.wikia.com//wiki/May_Gamgee
+333,5cd99d4bde30eff6ebccfd0d,"1.22m (4'0"")",Hobbit,Male,"April 6 ,2980",Rosie Cotton,"Still alive, after going to the ,Undying Lands, in ,FO 61",,Blond (movie),Samwise Gamgee,http://lotr.wikia.com//wiki/Samwise_Gamgee
+334,5cd99d4bde30eff6ebccfd0e,,Human,Male,"Possibly late ,Third Age",,,,Possibly blond,Gamling,http://lotr.wikia.com//wiki/Gamling
+335,5cd99d4bde30eff6ebccfd0f,,Hobbit,Female,March 253021,Fastred of Greenholm,"Early ,Fourth Age",,Blonde or Golden,Elanor Gardner,http://lotr.wikia.com//wiki/Elanor_Gardner
+336,5cd99d4bde30eff6ebccfd10,,Elf,Male,,,FA 473,,,Gelmir,http://lotr.wikia.com//wiki/Gelmir
+337,5cd99d4bde30eff6ebccfd11,"1.2m (3'11"")",Hobbit,Male,TA 2926,Bell Goodchild,FO 7 (SR 1428),,"Brown, later gray",Hamfast Gamgee,http://lotr.wikia.com//wiki/Hamfast_Gamgee
+338,5cd99d4bde30eff6ebccfd12,,Hobbit,Male,TA 2969,,,,,Halfred Gamgee,http://lotr.wikia.com//wiki/Halfred_Gamgee
+339,5cd99d4bde30eff6ebccfd13,6'3 (movie),Elf,Male,,,,,Golden (movie),Galdor of the Havens,http://lotr.wikia.com//wiki/Galdor_of_the_Havens
+340,5cd99d4bde30eff6ebccfd14,Tall,Elf,Male,FA 450,,SA 3441,"Havens of Sirion,Lindon",Possibly golden (book) Dark brown (movie),Gil-galad,http://lotr.wikia.com//wiki/Gil-galad
+341,5cd99d4bde30eff6ebccfd15,,Human,Female,First Age,"Hador, Lórindol",,,,Gildis,http://lotr.wikia.com//wiki/Gildis
+342,5cd99d4bde30eff6ebccfd16,,Human,Male,"Late ,First Age",,FA 460,,,Gildor (Edain),http://lotr.wikia.com//wiki/Gildor_(Edain)
+343,5cd99d4bde30eff6ebccfd17,,Elf,Male,,,Possible sailed West,,Golden,Gildor Inglorion,http://lotr.wikia.com//wiki/Gildor_Inglorion
+344,5cd99d4bde30eff6ebccfd18,,Elf,Male,,,Presumably still alive,,,Gilfanon,http://lotr.wikia.com//wiki/Gilfanon
+345,5cd99d4bde30eff6ebccfd19,Short,Human,Male,"Late ,Third Age",,,,Black,Ghân-buri-Ghân,http://lotr.wikia.com//wiki/Gh%C3%A2n-buri-Gh%C3%A2n
+346,5cd99d4bde30eff6ebccfd1a,,Human,Male,"Mid ,First Age",,,,,Gethron,http://lotr.wikia.com//wiki/Gethron
+347,5cd99d4bde30eff6ebccfd1b,"Unknown (book) 1.66m (5'5"") (film)",Human,Female,TA 2907,Arathorn II,TA 3007,,Blonde (film),Gilraen,http://lotr.wikia.com//wiki/Gilraen
+348,5cd99d4bde30eff6ebccfd1c,,Elf,Male,,,,,,Gelmir (of Angrod's kin),http://lotr.wikia.com//wiki/Gelmir_(of_Angrod%27s_kin)
+349,5cd99d4bde30eff6ebccfd1d,,Human,Male,TA 2732,Unnamed wife,TA 2770,,,Girion,http://lotr.wikia.com//wiki/Girion
+350,5cd99d4bde30eff6ebccfd1e,,Human,Male,SA 2630,,,,,Gimilzagar,http://lotr.wikia.com//wiki/Gimilzagar
+351,5cd99d4bde30eff6ebccfd1f,Tall,Elf,Male,"Possibly ,YT",None,FA 510,,Golden,Glorfindel,http://lotr.wikia.com//wiki/Glorfindel
+352,5cd99d4bde30eff6ebccfd20,,Human,Male,"Unknown, late fifth or sixth century ,First Age",,,,,Glirhuin,http://lotr.wikia.com//wiki/Glirhuin
+353,5cd99d4bde30eff6ebccfd21,,Human,Male,"Late ,Third Age",,,,,Gléowine,http://lotr.wikia.com//wiki/Gl%C3%A9owine
+354,5cd99d4bde30eff6ebccfd22,,Human,Male,SA 3044,Unnamed wife,SA 3243,,,Gimilkhâd,http://lotr.wikia.com//wiki/Gimilkh%C3%A2d
+355,5cd99d4bde30eff6ebccfd23,,Dwarf,Male,TA 2879,,"Unknown (Departed to ,Aman ,FO 120,)",,Auburn,Gimli,http://lotr.wikia.com//wiki/Gimli
+356,5cd99d4bde30eff6ebccfd24,,Human,Male,"Late ,Third Age",,,,,Golasgil,http://lotr.wikia.com//wiki/Golasgil
+357,5cd99d4bde30eff6ebccfd25,,Human,Male,TA 2619,,TA 2699,Rohan,,Goldwine,http://lotr.wikia.com//wiki/Goldwine
+358,5cd99d4bde30eff6ebccfd26,,Hobbit,Female,,Madoc Brandybuck,,,,Hanna (Goldworthy) Brandybuck,http://lotr.wikia.com//wiki/Hanna_(Goldworthy)_Brandybuck
+359,5cd99d4bde30eff6ebccfd27,,Hobbit,Male,TA 2908,Unnamed wife,"Before ,TA 3001",,,Gorbulas Brandybuck,http://lotr.wikia.com//wiki/Gorbulas_Brandybuck
+360,5cd99d4bde30eff6ebccfd28,,Hobbit,Male,TA 2274,Unnamed wife,,,,Gorhendad (Oldbuck) Brandybuck,http://lotr.wikia.com//wiki/Gorhendad_(Oldbuck)_Brandybuck
+361,5cd99d4bde30eff6ebccfd29,,Human,Male,"Late ,First Age",Eilinel,FA 460,,,Gorlim,http://lotr.wikia.com//wiki/Gorlim
+362,5cd99d4bde30eff6ebccfd2a,,Dwarf,Male,TA 2136,Unnamed wife,TA 2385,Grey Mountains,,Glóin (King of Durin's Folk),http://lotr.wikia.com//wiki/Gl%C3%B3in_(King_of_Durin%27s_Folk)
+363,5cd99d4bde30eff6ebccfd2b,,Dwarf,Male,TA 2783,Unnamed wife,FO 15,,"Red, later White",Glóin,http://lotr.wikia.com//wiki/Gl%C3%B3in
+364,5cd99d4bde30eff6ebccfd2c,,Human,Female,FA 415,Haldir,FA 473,,Blonde,Glóredhel,http://lotr.wikia.com//wiki/Gl%C3%B3redhel
+365,5cd99d4bde30eff6ebccfd2d,,Hobbit,,,,,,,Gormadoc Deepdelver Brandybuck,http://lotr.wikia.com//wiki/Gormadoc_%22Deepdelver%22_Brandybuck
+366,5cd99d4bde30eff6ebccfd2e,,Human,Male,TA 2668,Unnamed wife,TA 2741,Rohan,,Gram,http://lotr.wikia.com//wiki/Gram
+367,5cd99d4bde30eff6ebccfd2f,,Hobbit,Male,TA 2810,,,,,Holman Greenhand,http://lotr.wikia.com//wiki/Holman_Greenhand
+368,5cd99d4bde30eff6ebccfd30,,Hobbit,Female,TA 2862,Cotman Cotton,,,,Rose Greenhand,http://lotr.wikia.com//wiki/Rose_Greenhand
+369,5cd99d4bde30eff6ebccfd31,Tall (in Man-form),Human,Male,"Unknown, probably several years or so after the ,Battle of Five Armies",,"Unknown, early ,Fourth Age",,Dark,Grimbeorn,http://lotr.wikia.com//wiki/Grimbeorn
+370,5cd99d4bde30eff6ebccfd32,,Human,Male,"Late ,Third Age",,"March 15 ,3019",,,Grimbold,http://lotr.wikia.com//wiki/Grimbold
+371,5cd99d4bde30eff6ebccfd33,,Human,Male,"Mid ,First Age",,FA 474,,,Grithnir,http://lotr.wikia.com//wiki/Grithnir
+372,5cd99d4bde30eff6ebccfd34,,Dwarf,Male,TA 2671,Unnamed wife,TA 2923,,,Gróin,http://lotr.wikia.com//wiki/Gr%C3%B3in
+373,5cd99d4bde30eff6ebccfd35,,Hobbit,Male,TA 2851,,,,,Halfred Greenhand,http://lotr.wikia.com//wiki/Halfred_Greenhand
+374,5cd99d4bde30eff6ebccfd36,,Hobbit,Male,TA 2854,,,,,Erling Greenhand,http://lotr.wikia.com//wiki/Erling_Greenhand
+375,5cd99d4bde30eff6ebccfd37,,Elf,Male,,Unnamed wife,,,,Guilin,http://lotr.wikia.com//wiki/Guilin
+376,5cd99d4bde30eff6ebccfd38,,Hobbit,Male,TA 2859,,,,,Hending Greenhand,http://lotr.wikia.com//wiki/Hending_Greenhand
+377,5cd99d4bde30eff6ebccfd39,,Dwarf,Male,TA 2563,Unnamed wife,TA 2805,,,Grór,http://lotr.wikia.com//wiki/Gr%C3%B3r
+378,5cd99d4bde30eff6ebccfd3a,,Human,Male,"Mid ,First Age",,FA 456,,,Gundor,http://lotr.wikia.com//wiki/Gundor
+379,5cd99d4bde30eff6ebccfd3b,,Human,Male,"Late ,Third Age",,"March 15 ,3019",,Blond,Guthláf,http://lotr.wikia.com//wiki/Guthl%C3%A1f
+380,5cd99d4bde30eff6ebccfd3c,,Human,Male,FA 390,Gildis,FA 455,,Golden,Hador,http://lotr.wikia.com//wiki/Hador
+381,5cd99d4bde30eff6ebccfd3d,,Human,Male,TA 2245,Unnamed wife,TA 2395,,,Hador (Steward),http://lotr.wikia.com//wiki/Hador_(Steward)
+382,5cd99d4bde30eff6ebccfd3e,Tall,Human,Male,TA 2916,,"March 15 ,3019",,Black,Halbarad,http://lotr.wikia.com//wiki/Halbarad
+383,5cd99d4bde30eff6ebccfd3f,,Human,Male,FA 413,Glóredhel,FA 473,,,Haldir (Haladin),http://lotr.wikia.com//wiki/Haldir_(Haladin)
+384,5cd99d4bde30eff6ebccfd40,,Human,Male,TA 2940,Unnamed wife,TA 3015,,,Gálmód,http://lotr.wikia.com//wiki/G%C3%A1lm%C3%B3d
+385,5cd99d4bde30eff6ebccfd41,,Elf,Male,"Unknown, possibly during the ,First Age","None, betrothed to ,Finduilas",FA 495,,Became grey in captivity,Gwindor,http://lotr.wikia.com//wiki/Gwindor
+386,5cd99d4bde30eff6ebccfd42,,Elf,Male,,,TA 3019,,Golden,Haldir (Lorien),http://lotr.wikia.com//wiki/Haldir_(Lorien)
+387,5cd99d4bde30eff6ebccfd43,,Human,Female,FA 341,None,FA 420,,,Haleth,http://lotr.wikia.com//wiki/Haleth
+388,5cd99d4bde30eff6ebccfd44,,Human,Male,"Late-,Third Age",,"February 28 ,3019",,,Gárulf,http://lotr.wikia.com//wiki/G%C3%A1rulf
+389,5cd99d4bde30eff6ebccfd45,,Human,Male,"Late ,Third Age",,"Winter of ,TA 2758",,,Haleth (Helm's son),http://lotr.wikia.com//wiki/Haleth_(Helm%27s_son)
+390,5cd99d4bde30eff6ebccfd46,,Human,Male,SA 852,Tar-Ancalimë,SA 1211,,,Hallacar,http://lotr.wikia.com//wiki/Hallacar
+391,5cd99d4bde30eff6ebccfd47,,Human,Male,TA 2480,Unnamed wife,TA 2605,,,Hallas (Steward),http://lotr.wikia.com//wiki/Hallas_(Steward)
+392,5cd99d4bde30eff6ebccfd48,,Human,Male,"Late ,First Age",Unnamed wife,Late First Age,,,Halmir,http://lotr.wikia.com//wiki/Halmir
+393,5cd99d4bde30eff6ebccfd49,,Human,Male,SA 711,Unnamed wife,"Mid ,Second Age",,,Hallatan,http://lotr.wikia.com//wiki/Hallatan
+394,5cd99d4bde30eff6ebccfd4a,,Hobbit,Male,TA 2760,Unnamed wife,,,,Hamfast of Gamwich,http://lotr.wikia.com//wiki/Hamfast_of_Gamwich
+395,5cd99d4bde30eff6ebccfd4b,,Human,Female,FA 419,Galdor,,,,Hareth,http://lotr.wikia.com//wiki/Hareth
+396,5cd99d4bde30eff6ebccfd4c,,Human,Male,"Late ,Third Age",,"March 15 ,3019",,,Harding,http://lotr.wikia.com//wiki/Harding
+397,5cd99d4bde30eff6ebccfd4d,,Human,Male,FA 470,None,FA 501,,,Hardang,http://lotr.wikia.com//wiki/Hardang
+398,5cd99d4bde30eff6ebccfd4e,,Human,Male,"Mid ,First Age",,FA 460,,,Hathaldir,http://lotr.wikia.com//wiki/Hathaldir
+399,5cd99d4bde30eff6ebccfd4f,,Human,Male,"Sometime before ,SA 799",Unnamed wife,,,,Hatholdir,http://lotr.wikia.com//wiki/Hatholdir
+400,5cd99d4bde30eff6ebccfd50,,Human,Male,TA 2691,Unnamed wife,TA 2759,Rohan,,Helm Hammerhand,http://lotr.wikia.com//wiki/Helm_Hammerhand
+401,5cd99d4bde30eff6ebccfd51,,Human,Male,F.A. 365,,,,,Hathol,http://lotr.wikia.com//wiki/Hathol
+402,5cd99d4bde30eff6ebccfd52,,Human,,FA 441,Beldis,FA 495,Brethil,,Handir,http://lotr.wikia.com//wiki/Handir
+403,5cd99d4bde30eff6ebccfd53,,Human,Male,"Early ,Second Age",,unknown,,,Henderch,http://lotr.wikia.com//wiki/Henderch
+404,5cd99d4bde30eff6ebccfd54,,Human,Male,"Late-,Third Age",Unnamed wife,"March 15 ,3019",,Gray,Herefara,http://lotr.wikia.com//wiki/Herefara
+405,5cd99d4bde30eff6ebccfd55,,Elf,Male,,,,,,Hendor,http://lotr.wikia.com//wiki/Hendor
+406,5cd99d4bde30eff6ebccfd56,,Human,Male,TA 2037,Unnamed wife,TA 2148,,,Herion,http://lotr.wikia.com//wiki/Herion
+407,5cd99d4bde30eff6ebccfd57,,Human,Male,"Late-,Third Age",Unnamed wife,"March 15 ,3019",,,Herubrand,http://lotr.wikia.com//wiki/Herubrand
+408,5cd99d4bde30eff6ebccfd58,,Human,Male,SA 2286,Tar-Vanimeldë,SA 2657,,,Herucalmo,http://lotr.wikia.com//wiki/Herucalmo
+409,5cd99d4bde30eff6ebccfd59,Tall,Human,Male,"Late ,Third Age",,TA 3019,,,Hirgon,http://lotr.wikia.com//wiki/Hirgon
+410,5cd99d4bde30eff6ebccfd5a,Tall,Human,Male,"Late ,Third Age",,"March 15 ,3019",,,Hirluin,http://lotr.wikia.com//wiki/Hirluin
+411,5cd99d4bde30eff6ebccfd5b,,Hobbit,Male,TA 2846,Rowan,,,,Hob Gammidge,http://lotr.wikia.com//wiki/Hob_Gammidge
+412,5cd99d4bde30eff6ebccfd5c,,Hobbit,Male,"Late ,Third Age",,,Shire,,Hob Hayward,http://lotr.wikia.com//wiki/Hob_Hayward
+413,5cd99d4bde30eff6ebccfd5d,,Hobbit,Male,"Late ,Third Age",,"Late ,TA 3018",Shire,,Tobias Hornblower,http://lotr.wikia.com//wiki/Tobias_Hornblower
+414,5cd99d4bde30eff6ebccfd5e,,Hobbit,,,,,,,Holfast Gardner,http://lotr.wikia.com//wiki/Holfast_Gardner
+415,5cd99d4bde30eff6ebccfd5f,,Human,Male,"Possibly late ,Third Age",,"March 15 ,TA 3019",,Blond (Video game),Horn,http://lotr.wikia.com//wiki/Horn
+416,5cd99d4bde30eff6ebccfd60,,Human,Male,"Mid ,FA",Unnamed wife,Mid FA,,,Hundad,http://lotr.wikia.com//wiki/Hundad
+417,5cd99d4bde30eff6ebccfd61,,Human,Male,"Late ,First Age",Unnamed wife,FA 473,,,Hundar,http://lotr.wikia.com//wiki/Hundar
+418,5cd99d4bde30eff6ebccfd62,,Human,Male,"Late ,FA",Unnamed wife,FA 499,,,Hunthor,http://lotr.wikia.com//wiki/Hunthor
+419,5cd99d4bde30eff6ebccfd63,Tallest of all mortal men save his son Tuor only,Human,Male,FA 442,Rían,FA 473,,Golden,Huor,http://lotr.wikia.com//wiki/Huor
+420,5cd99d4bde30eff6ebccfd64,,Human,Male,TA 899,Unnamed wife,TA 1149,Gondor,,Hyarmendacil I,http://lotr.wikia.com//wiki/Hyarmendacil_I
+421,5cd99d4bde30eff6ebccfd65,,Human,Male,TA 1391,Unnamed wife,TA 1621,Gondor,,Hyarmendacil II,http://lotr.wikia.com//wiki/Hyarmendacil_II
+422,5cd99d4bde30eff6ebccfd66,,Human,Male,TA 2975,"Unknown, possibly none","March 3, or ,4 ,3019",,Reddish brown (movie),Háma,http://lotr.wikia.com//wiki/H%C3%A1ma
+423,5cd99d4bde30eff6ebccfd67,,Human,Male,TA 2515,Unnamed wife,TA 2628,,,Húrin II,http://lotr.wikia.com//wiki/H%C3%BArin_II
+424,5cd99d4bde30eff6ebccfd68,,Human,Male,"Late ,Third Age",,"Winter of ,TA 2759",,,Háma (Helm's son),http://lotr.wikia.com//wiki/H%C3%A1ma_(Helm%27s_son)
+425,5cd99d4bde30eff6ebccfd69,,Human,Male,"Mid-,Third Age",,"Mid-,Third Age",,,Húrin of Emyn Arnen,http://lotr.wikia.com//wiki/H%C3%BArin_of_Emyn_Arnen
+426,5cd99d4bde30eff6ebccfd6a,,Human,Male,FA 441,Morwen Eledhwen,FA 502,,"Golden, grey (in old age)",Húrin,http://lotr.wikia.com//wiki/H%C3%BArin
+427,5cd99d4bde30eff6ebccfd6b,,Elf,Male,"Unknown, Awakened in the ,Years of the Trees",Iminyë,,,,Imin,http://lotr.wikia.com//wiki/Imin
+428,5cd99d4bde30eff6ebccfd6c,,Elf,Female,"Unknown, Awakened in the ,Years of the Trees",Imin,,,,Iminyë,http://lotr.wikia.com//wiki/Iminy%C3%AB
+429,5cd99d4bde30eff6ebccfd6d,,Human,Male,around FA 325,Unnamed wife,First Age,,,Imlach,http://lotr.wikia.com//wiki/Imlach
+430,5cd99d4bde30eff6ebccfd6e,Tall,Human,Male,TA 2955,Unnamed wife,FO 34,,Black,Imrahil,http://lotr.wikia.com//wiki/Imrahil
+431,5cd99d4bde30eff6ebccfd6f,,Human,Male,TA 1950,Mithrellas,TA 2076,,,Imrazôr,http://lotr.wikia.com//wiki/Imraz%C3%B4r
+432,5cd99d4bde30eff6ebccfd70,Tall,Elf,Female,YT 1469,Tuor,Still Alive,,Golden,Idril,http://lotr.wikia.com//wiki/Idril
+433,5cd99d4bde30eff6ebccfd71,,Dwarf,Male,,"Unknown, possibly none",FA 489,,,Ibûn,http://lotr.wikia.com//wiki/Ib%C3%BBn
+434,5cd99d4bde30eff6ebccfd72,Tall,Elf,Female,,Finwë,Still Alive,Tirion,Golden,Indis,http://lotr.wikia.com//wiki/Indis
+435,5cd99d4bde30eff6ebccfd73,,Human,Male,TA 2124,Unnamed wife,TA 2244,,,Húrin I,http://lotr.wikia.com//wiki/H%C3%BArin_I
+436,5cd99d4bde30eff6ebccfd74,Tall,Elf,Male,"YT, and perhaps firstborn",Unnamed wife,Still Alive,"Valinor,Taniquetil",Probably Golden,Ingwë,http://lotr.wikia.com//wiki/Ingw%C3%AB
+437,5cd99d4bde30eff6ebccfd75,,Human,Female,"Late ,Second Age",Ar-Gimilzôr,,,,Inzilbêth,http://lotr.wikia.com//wiki/Inzilb%C3%AAth
+438,5cd99d4bde30eff6ebccfd76,,Human,Female,"Late ,Third Age",,,,,Ioreth,http://lotr.wikia.com//wiki/Ioreth
+439,5cd99d4bde30eff6ebccfd77,,Human,Male,"b. ,TA 2990",,"Early-,Fourth Age",,,Iorlas,http://lotr.wikia.com//wiki/Iorlas
+440,5cd99d4bde30eff6ebccfd78,,Hobbit,Male,TA 2842,Unnamed wife,TA 2946,,,Isembold Took,http://lotr.wikia.com//wiki/Isembold_Took
+441,5cd99d4bde30eff6ebccfd79,,Human,Male,"Late ,Third Age",,"Early ,Fourth Age",,,Ingold,http://lotr.wikia.com//wiki/Ingold
+442,5cd99d4bde30eff6ebccfd7a,,Hobbit,Male,TA 2832,Not married,TA 2930,,,Isengrim Took III,http://lotr.wikia.com//wiki/Isengrim_Took_III
+443,5cd99d4bde30eff6ebccfd7b,,Human,Male,"Mid ,First Age",Unnamed wife,FA 495,,,Indor,http://lotr.wikia.com//wiki/Indor
+444,5cd99d4bde30eff6ebccfd7c,,Elf,Male,YT,,"Unknown, probably still alive",,Probably Golden,Ingwion,http://lotr.wikia.com//wiki/Ingwion
+445,5cd99d4bde30eff6ebccfd7d,,Human,Male,"After ,SA 1320",Unnamed wife,"Before ,SA 1731",,,Isilmo,http://lotr.wikia.com//wiki/Isilmo
+446,5cd99d4bde30eff6ebccfd7e,,Human,Female,TA 2947,,,,,Ivriniel,http://lotr.wikia.com//wiki/Ivriniel
+447,5cd99d4bde30eff6ebccfd7f,,Human,Female,FA 466,,FA 469,,Blonde,Lalaith,http://lotr.wikia.com//wiki/Lalaith
+448,5cd99d4bde30eff6ebccfd80,,Human,Male,"Late ,First Age",Unnamed wife,,,,Larnach,http://lotr.wikia.com//wiki/Larnach
+449,5cd99d4bde30eff6ebccfd81,,Elf,Male,,,"Still alive, departed to ,Aman ,FO 120",,"Uncertain (book), Blonde (films)",Legolas,http://lotr.wikia.com//wiki/Legolas
+450,5cd99d4bde30eff6ebccfd82,Very tall almost 7'1,Human,Male,SA 3209,Unnamed wife,TA 2,"Arnor,Gondor",Black,Isildur,http://lotr.wikia.com//wiki/Isildur
+451,5cd99d4bde30eff6ebccfd83,Tall,Elf,Male,,,"Possibly departed to ,Aman",,Brown (films),Lindir,http://lotr.wikia.com//wiki/Lindir
+452,5cd99d4bde30eff6ebccfd84,,Human,Female,SA 551,,,,,Lindissë,http://lotr.wikia.com//wiki/Lindiss%C3%AB
+453,5cd99d4bde30eff6ebccfd85,,Human,Female,SA 532,,,,,Isilmë,http://lotr.wikia.com//wiki/Isilm%C3%AB
+454,5cd99d4bde30eff6ebccfd86,,Elf,Male,YT,Vairë,,,,Lindo,http://lotr.wikia.com//wiki/Lindo
+455,5cd99d4bde30eff6ebccfd87,,Human,Female,TA 2857,Dírhael,TA 2929,,Brown (film),Ivorwen,http://lotr.wikia.com//wiki/Ivorwen
+456,5cd99d4bde30eff6ebccfd88,,Human,Female,"Late ,Second Age",Unknown husband,Late Second Age,,,Lindórië,http://lotr.wikia.com//wiki/Lind%C3%B3ri%C3%AB
+457,5cd99d4bde30eff6ebccfd89,,Elf,Male,YT,Unnamed wife,YT (possibly),,,Lenwë,http://lotr.wikia.com//wiki/Lenw%C3%AB
+458,5cd99d4bde30eff6ebccfd8a,,Human,Male,"Late ,First Age",,Late First Age,,,Lorgan,http://lotr.wikia.com//wiki/Lorgan
+459,5cd99d4bde30eff6ebccfd8b,,Human,Female,TA 2999,omer,,Rohan,,Lothíriel,http://lotr.wikia.com//wiki/Loth%C3%ADriel
+460,5cd99d4bde30eff6ebccfd8c,,Human,Male,TA 2459,Unnamed wife,TA 2501,,,Léod,http://lotr.wikia.com//wiki/L%C3%A9od
+461,5cd99d4bde30eff6ebccfd8d,,Human,Male,TA 2752,Unnamed wife,TA 2842,Rohan,,Brytta Léofa,http://lotr.wikia.com//wiki/Brytta_L%C3%A9ofa
+462,5cd99d4bde30eff6ebccfd8e,,Dwarf,Male,"Late ,Third Age",,TA 2994,,,Lóni,http://lotr.wikia.com//wiki/L%C3%B3ni
+463,5cd99d4bde30eff6ebccfd8f,,Elf,Female,YT 1200,Beren Erchamion,FA 503,,Black,Lúthien,http://lotr.wikia.com//wiki/L%C3%BAthien
+464,5cd99d4bde30eff6ebccfd90,,Hobbit,Male,TA 2948,Unnamed wife,,,Brown,Farmer Maggot,http://lotr.wikia.com//wiki/Farmer_Maggot
+465,5cd99d4bde30eff6ebccfd91,Tall,Human,Male,"Late ,Third Age",,,,Dark,Mablung the Ranger,http://lotr.wikia.com//wiki/Mablung_the_Ranger
+466,5cd99d4bde30eff6ebccfd92,,Elf,Male,"During the ,Noontide of Valinor",Unnamed wife,Fate unknown,,Dark,Maglor,http://lotr.wikia.com//wiki/Maglor
+467,5cd99d4bde30eff6ebccfd93,Tall,Elf,Male,"During the ,Noontide of Valinor",None,FA 587,,Dark red,Maedhros,http://lotr.wikia.com//wiki/Maedhros
+468,5cd99d4bde30eff6ebccfd94,,Elf,Male,UnknownYT,Unnamed wife,Still alive,,Brown with copperlike-red,Mahtan,http://lotr.wikia.com//wiki/Mahtan
+469,5cd99d4bde30eff6ebccfd95,,Human,Male,F.A. 341,,,,,Magor,http://lotr.wikia.com//wiki/Magor
+470,5cd99d4bde30eff6ebccfd96,,Human,Female,SA 377,,,,,Mairen,http://lotr.wikia.com//wiki/Mairen
+471,5cd99d4bde30eff6ebccfd97,,Human,Male,FA 307,Meldis,FA 398,,,Malach,http://lotr.wikia.com//wiki/Malach
+472,5cd99d4bde30eff6ebccfd98,Tall,Elf,Male,FA 320,None,FA 510,,Black,Maeglin,http://lotr.wikia.com//wiki/Maeglin
+473,5cd99d4bde30eff6ebccfd99,,Human,Male,TA 1144,Unnamed wife,TA 1349,Arthedain,,Malvegil,http://lotr.wikia.com//wiki/Malvegil
+474,5cd99d4bde30eff6ebccfd9a,,Human,Male,"Late ,First Age",,Late First Age,,,Manthor,http://lotr.wikia.com//wiki/Manthor
+475,5cd99d4bde30eff6ebccfd9b,,Human,Male,"After ,SA 61",Possible unnamed wife,"Early ,Second Age",,,Manwendil,http://lotr.wikia.com//wiki/Manwendil
+476,5cd99d4bde30eff6ebccfd9c,,Hobbit,,,,,,,Malva Headstrong Brandybuck,http://lotr.wikia.com//wiki/Malva_%22Headstrong%22_Brandybuck
+477,5cd99d4bde30eff6ebccfd9d,,Human,Male,TA 895,Unnamed wife,TA 1110,"Arthedain,Arnor",,Mallor,http://lotr.wikia.com//wiki/Mallor
+478,5cd99d4bde30eff6ebccfd9e,,Human,Male,FA 282,Unnamed wife,FA 376,,,Marach,http://lotr.wikia.com//wiki/Marach
+479,5cd99d4bde30eff6ebccfd9f,,Hobbit,Male,TA 1557,,"Sometime after ,TA 1601",,,Marcho,http://lotr.wikia.com//wiki/Marcho
+480,5cd99d4bde30eff6ebccfda0,,Human,Male,TA 1960,Unnamed wife,TA 2080,,,Mardil Voronwë,http://lotr.wikia.com//wiki/Mardil_Voronw%C3%AB
+481,5cd99d4bde30eff6ebccfda1,,Human,Male,"Mid ,Third Age","Unknown, possible none",Mid Third Age,,"Dark, later grey ",Malbeth the Seer,http://lotr.wikia.com//wiki/Malbeth_the_Seer
+482,5cd99d4bde30eff6ebccfda2,,Human,Male,"Mid-,Third Age",Unnamed wife,Mid-Third Age,,,Marhwini,http://lotr.wikia.com//wiki/Marhwini
+483,5cd99d4bde30eff6ebccfda3,,Hobbit,Male,SR 1343,Unnamed wife,,,,Marmadas Brandybuck,http://lotr.wikia.com//wiki/Marmadas_Brandybuck
+484,5cd99d4bde30eff6ebccfda4,"Tall (6'4"")",Human,Male,TA 2890,,TA 2941,Lake-town,Auburn (film),Master of Laketown,http://lotr.wikia.com//wiki/Master_of_Laketown
+485,5cd99d4bde30eff6ebccfda5,,Human,Male,SA 3318,Unnamed wife,TA 158,Gondor,,Meneldil,http://lotr.wikia.com//wiki/Meneldil
+486,5cd99d4bde30eff6ebccfda6,,Human,Female,Around FA 450,Agathor,,,,Meleth,http://lotr.wikia.com//wiki/Meleth
+487,5cd99d4bde30eff6ebccfda7,,Elf,Female,YT,,"Unknown, presumably still alive",Tol Eressëa,,Meril-i-Turinqi,http://lotr.wikia.com//wiki/Meril-i-Turinqi
+488,5cd99d4bde30eff6ebccfda8,,Hobbit,Male,SR 1381,,"Early-,Fourth Age",,,Merimas Brandybuck,http://lotr.wikia.com//wiki/Merimas_Brandybuck
+489,5cd99d4bde30eff6ebccfda9,,Human,Male,"Mid ,Third Age",,"July 13 ,1944",,,Minohtar,http://lotr.wikia.com//wiki/Minohtar
+490,5cd99d4bde30eff6ebccfdaa,,Hobbit,Male,SR 1182,Unnamed wife,,,,Marroc Brandybuck,http://lotr.wikia.com//wiki/Marroc_Brandybuck
+491,5cd99d4bde30eff6ebccfdab,,Human,Male,"Mid ,Third Age",Unnamed wife,TA 1856,,,Marhari,http://lotr.wikia.com//wiki/Marhari
+492,5cd99d4bde30eff6ebccfdac,,Human,Male,TA 1454,Unnamed wife,TA 1634,Gondor,,Minardil,http://lotr.wikia.com//wiki/Minardil
+493,5cd99d4bde30eff6ebccfdad,,Elf,Female,,Imrazôr,,,,Mithrellas,http://lotr.wikia.com//wiki/Mithrellas
+494,5cd99d4bde30eff6ebccfdae,Tall,Human,Female,FA 443,Húrin Thalion,FA 500,,"Dark, grey in old age",Morwen,http://lotr.wikia.com//wiki/Morwen
+495,5cd99d4bde30eff6ebccfdaf,,Human,Female,"Late 26th century ,Third Age",Unnamed husband,"Late ,Third Age",,,Morwen (Gondor),http://lotr.wikia.com//wiki/Morwen_(Gondor)
+496,5cd99d4bde30eff6ebccfdb0,,Elf,,"Perhaps ,Firstborn",,,,,Morwë,http://lotr.wikia.com//wiki/Morw%C3%AB
+497,5cd99d4bde30eff6ebccfdb1,,Elf,Female,,Finwë,YT 1170,,Silver,Míriel,http://lotr.wikia.com//wiki/M%C3%ADriel
+498,5cd99d4bde30eff6ebccfdb2,,Dwarf,Male,"Early ,First Age",Unnamed wife,FA 502,,,Mîm,http://lotr.wikia.com//wiki/M%C3%AEm
+499,5cd99d4bde30eff6ebccfdb3,,Human,Male,TA 1049,"Unknown, possibly none as he had no children",TA 1294,Gondor,,Narmacil I,http://lotr.wikia.com//wiki/Narmacil_I
+500,5cd99d4bde30eff6ebccfdb4,,Human,Female,SA 840,,"Mid ,Second Age",,,Nessanië,http://lotr.wikia.com//wiki/Nessani%C3%AB
+501,5cd99d4bde30eff6ebccfdb5,,Elf,Female,YT,"Loved ,Amroth",TA 1981,,Possibly golden,Nimrodel,http://lotr.wikia.com//wiki/Nimrodel
+502,5cd99d4bde30eff6ebccfdb6,,Elf,Female,"YT, during the ,Noontide of Valinor",Fëanor,Still alive,,Reddish brown,Nerdanel,http://lotr.wikia.com//wiki/Nerdanel
+503,5cd99d4bde30eff6ebccfdb7,,Dwarf,Male,,,FA 503,,,Naugladur,http://lotr.wikia.com//wiki/Naugladur
+504,5cd99d4bde30eff6ebccfdb8,,Hobbit,Female,SR 1261,Theobald Bolger,,Shire,,Nina Lightfoot,http://lotr.wikia.com//wiki/Nina_Lightfoot
+505,5cd99d4bde30eff6ebccfdb9,,Human,Male,SA 222,Unnamed wife,"Early ,Second Age",,,Nolondil,http://lotr.wikia.com//wiki/Nolondil
+506,5cd99d4bde30eff6ebccfdba,Tall,Human,Female,FA 473,Túrin Turambar,FA 499,,Golden,Niënor,http://lotr.wikia.com//wiki/Ni%C3%ABnor
+507,5cd99d4bde30eff6ebccfdbb,,Hobbit,Male,"Late ,Third Age",,,,,Nob,http://lotr.wikia.com//wiki/Nob
+508,5cd99d4bde30eff6ebccfdbc,,Human,Male,TA 1684,Unnamed wife,TA 1856,,,Narmacil II,http://lotr.wikia.com//wiki/Narmacil_II
+509,5cd99d4bde30eff6ebccfdbd,,Dwarf,Male,TA 1832,Unnamed wife,TA 1981,Khazad-dûm,,Náin I,http://lotr.wikia.com//wiki/N%C3%A1in_I
+510,5cd99d4bde30eff6ebccfdbe,,Dwarf,Male,TA 2338,Unnamed wife,TA 2585,Grey Mountains,,Náin II,http://lotr.wikia.com//wiki/N%C3%A1in_II
+511,5cd99d4bde30eff6ebccfdbf,,Dwarf,Male,"Late ,Third Age",,TA 2994,,,Náli,http://lotr.wikia.com//wiki/N%C3%A1li
+512,5cd99d4bde30eff6ebccfdc0,,Dwarf,Male,"Late ,Third Age",,Late Third Age,,,Nár,http://lotr.wikia.com//wiki/N%C3%A1r
+513,5cd99d4bde30eff6ebccfdc1,,Human,Male,Late Second Age,Unnamed wife,SA 3065,,,Númendil,http://lotr.wikia.com//wiki/N%C3%BAmendil
+514,5cd99d4bde30eff6ebccfdc2,,Human,Female,"Early ,Second Age",Beregar,,,,Núneth,http://lotr.wikia.com//wiki/N%C3%BAneth
+515,5cd99d4bde30eff6ebccfdc3,,Elf,,"Perhaps ,Firstborn",,,,,Nurwë,http://lotr.wikia.com//wiki/Nurw%C3%AB
+516,5cd99d4bde30eff6ebccfdc4,,Dwarf,Male,TA 2837,,,,,Nori,http://lotr.wikia.com//wiki/Nori
+517,5cd99d4bde30eff6ebccfdc5,,Dwarf,Male,TA 2665,Unnamed wife,TA 2799,,,Náin (father of Dáin II Ironfoot),http://lotr.wikia.com//wiki/N%C3%A1in_(father_of_D%C3%A1in_II_Ironfoot)
+518,5cd99d4bde30eff6ebccfdc6,,Hobbit,Male,TA 2923,Unnamed wife,"Early ,Fourth Age",,,Old Noakes,http://lotr.wikia.com//wiki/Old_Noakes
+519,5cd99d4bde30eff6ebccfdc7,,Elf,Male,Possibly Firstborn,Unnamed Wife,Still Alive,"Tol Eressëa,Alqualondë",Silver,Olwë,http://lotr.wikia.com//wiki/Olw%C3%AB
+520,5cd99d4bde30eff6ebccfdc8,,Human,Male,"Sometime before ,SA 799",Ailinel,,,,Orchaldor,http://lotr.wikia.com//wiki/Orchaldor
+521,5cd99d4bde30eff6ebccfdc9,,Human,Male,TA 1787,Unnamed wife,TA 1944,Gondor,,Ondoher,http://lotr.wikia.com//wiki/Ondoher
+522,5cd99d4bde30eff6ebccfdca,,Dwarf,Male,TA 2865,,TA 2994,,,Ori,http://lotr.wikia.com//wiki/Ori
+523,5cd99d4bde30eff6ebccfdcb,,Elf,Male,YT,Unnamed wife,"FA 495 ,Battle of Tumhalad",Nargothrond,Golden,Orodreth,http://lotr.wikia.com//wiki/Orodreth
+524,5cd99d4bde30eff6ebccfdcc,,Human,Male,TA 2576,Unnamed wife,TA 2685,,,Orodreth (Steward),http://lotr.wikia.com//wiki/Orodreth_(Steward)
+525,5cd99d4bde30eff6ebccfdcd,,Human,Male,SA 382,,,,,Oromendil,http://lotr.wikia.com//wiki/Oromendil
+526,5cd99d4bde30eff6ebccfdce,,Human,Male,"Late ,Second Age",,,,,Ohtar,http://lotr.wikia.com//wiki/Ohtar
+527,5cd99d4bde30eff6ebccfdcf,,Human,Male,TA 222,Unnamed wife,TA 492,Gondor,,Ostoher,http://lotr.wikia.com//wiki/Ostoher
+528,5cd99d4bde30eff6ebccfdd0,,Elf,Male,,,,,,Orophin,http://lotr.wikia.com//wiki/Orophin
+529,5cd99d4bde30eff6ebccfdd1,,Human,Male,TA 1879,,TA 1998,,,Pelendur,http://lotr.wikia.com//wiki/Pelendur
+530,5cd99d4bde30eff6ebccfdd2,,Hobbit,Female,"Late ,Third Age",Odo Proudfoot,,,,Mrs. Proudfoot,http://lotr.wikia.com//wiki/Mrs._Proudfoot
+531,5cd99d4bde30eff6ebccfdd3,Tallest of the Elves of Gondolin,Elf,Male,"Early ,First Age",,,,,Pengolodh,http://lotr.wikia.com//wiki/Pengolodh
+532,5cd99d4bde30eff6ebccfdd4,"1.22m (4'0"")",Hobbit,Male,TA 2910,Lobelia Sackville-Baggins,TA 3012,,,Otho Sackville-Baggins,http://lotr.wikia.com//wiki/Otho_Sackville-Baggins
+533,5cd99d4bde30eff6ebccfdd5,,Hobbit,Male,TA 2904,Mrs. Proudfoot,TA 3005,,Brown Gray (movie),Odo Proudfoot,http://lotr.wikia.com//wiki/Odo_Proudfoot
+534,5cd99d4bde30eff6ebccfdd6,,Human,Male,"Late ,First Age",,FA 460,,,Radhruin,http://lotr.wikia.com//wiki/Radhruin
+535,5cd99d4bde30eff6ebccfdd7,,Elf,Male,First Age,Unnamed wife,SA 3434,Woodland Realm,,Oropher,http://lotr.wikia.com//wiki/Oropher
+536,5cd99d4bde30eff6ebccfdd8,,Human,Male,"Late ,First Age",,Late First Age,,,Ragnir,http://lotr.wikia.com//wiki/Ragnir
+537,5cd99d4bde30eff6ebccfdd9,,Human,Male,"Mid ,First Age",,FA 460,,,Ragnor,http://lotr.wikia.com//wiki/Ragnor
+538,5cd99d4bde30eff6ebccfdda,,Human,Female,FA 450,Huor,FA 473,,,Rían,http://lotr.wikia.com//wiki/R%C3%ADan
+539,5cd99d4bde30eff6ebccfddb,,Human,Female,c. T.A. 2328,Unnamed husband,,,,Rían (Gondor),http://lotr.wikia.com//wiki/R%C3%ADan_(Gondor)
+540,5cd99d4bde30eff6ebccfddc,,Hobbit,Male,TA 2849,Belba Baggins,"Late ,Third Age",Shire,,Rowan Greenhand,http://lotr.wikia.com//wiki/Rowan_Greenhand
+541,5cd99d4bde30eff6ebccfddd,,Hobbit,Male,SR 1255,Belba Baggins,SR 1348,Bree,,Rudigar Bolger,http://lotr.wikia.com//wiki/Rudigar_Bolger
+542,5cd99d4bde30eff6ebccfdde,,Hobbit,Male,,Asphodel Brandybuck,,,,Rufus Burrows,http://lotr.wikia.com//wiki/Rufus_Burrows
+543,5cd99d4bde30eff6ebccfddf,,Human,Male,TA 310,Unnamed wife,TA 541,Gondor,,Rómendacil I,http://lotr.wikia.com//wiki/R%C3%B3mendacil_I
+544,5cd99d4bde30eff6ebccfde0,"1.17m (3'10"")",Hobbit,Female,TA 2918,Otho Sackville-Baggins,TA 3020,,,Lobelia Sackville-Baggins,http://lotr.wikia.com//wiki/Lobelia_Sackville-Baggins
+545,5cd99d4bde30eff6ebccfde1,,Elf,Male,YT,,,,,Rúmil (Noldo),http://lotr.wikia.com//wiki/R%C3%BAmil_(Noldo)
+546,5cd99d4bde30eff6ebccfde2,"1.22m (4'0"") ",Hobbit,Male,TA 2964,None,TA 3019,,Sandy,Lotho Sackville-Baggins,http://lotr.wikia.com//wiki/Lotho_Sackville-Baggins
+547,5cd99d4bde30eff6ebccfde3,,Hobbit,Male,SR 1179,Unnamed wife,,,,Sadoc Brandybuck,http://lotr.wikia.com//wiki/Sadoc_Brandybuck
+548,5cd99d4bde30eff6ebccfde4,,Human,Male,"about ,FA 430",None known,FA 495,,,Sador,http://lotr.wikia.com//wiki/Sador
+549,5cd99d4bde30eff6ebccfde5,,Human,Male,Fourth Age,,,,,Saelon,http://lotr.wikia.com//wiki/Saelon
+550,5cd99d4bde30eff6ebccfde6,,Elf,Male,,,,,,Rúmil of Lórien,http://lotr.wikia.com//wiki/R%C3%BAmil_of_L%C3%B3rien
+551,5cd99d4bde30eff6ebccfde7,,Human,Male,,,,,,Sagroth,http://lotr.wikia.com//wiki/Sagroth
+552,5cd99d4bde30eff6ebccfde8,,Human,Male,TA 1126,Unnamed wife,TA 1366,Gondor,,Rómendacil II,http://lotr.wikia.com//wiki/R%C3%B3mendacil_II
+553,5cd99d4bde30eff6ebccfde9,,Human,Female,SA 521,Elatan,,,,Silmariën,http://lotr.wikia.com//wiki/Silmari%C3%ABn
+554,5cd99d4bde30eff6ebccfdea,,Human,Male,"Mid-,Third Age",,,,,Sangahyando,http://lotr.wikia.com//wiki/Sangahyando
+555,5cd99d4bde30eff6ebccfdeb,,Human,Male,TA 570,Unnamed wife,TA 830,Gondor,,Siriondil,http://lotr.wikia.com//wiki/Siriondil
+556,5cd99d4bde30eff6ebccfdec,,Hobbit,Male,SR 1308,,SR 1407,,,Saradas Brandybuck,http://lotr.wikia.com//wiki/Saradas_Brandybuck
+557,5cd99d4bde30eff6ebccfded,,Hobbit,Male,"Late ,Third Age",,,,,Robin Smallburrow,http://lotr.wikia.com//wiki/Robin_Smallburrow
+558,5cd99d4bde30eff6ebccfdee,,Human,Male,SA 799,None,"Early ,Second Age",,,Soronto,http://lotr.wikia.com//wiki/Soronto
+559,5cd99d4bde30eff6ebccfdef,Tall,Human,Female,TA 2922,Thengel,,Rohan,Dark,Morwen Steelsheen,http://lotr.wikia.com//wiki/Morwen_Steelsheen
+560,5cd99d4bde30eff6ebccfdf0,,Human,Male,SA 2406,Unnamed wife,SA 2737,Númenor,,Tar-Alcarin,http://lotr.wikia.com//wiki/Tar-Alcarin
+561,5cd99d4bde30eff6ebccfdf1,,Hobbit,Male,TA 2920,,FO 50,,,Ted Sandyman,http://lotr.wikia.com//wiki/Ted_Sandyman
+562,5cd99d4bde30eff6ebccfdf2,,Human,Male,SA 700,Erendis,SA 1098,Númenor,,Tar-Aldarion,http://lotr.wikia.com//wiki/Tar-Aldarion
+563,5cd99d4bde30eff6ebccfdf3,,Human,Male,SA 192,Unnamed wife,SA 603,Númenor,,Tar-Amandil,http://lotr.wikia.com//wiki/Tar-Amandil
+564,5cd99d4bde30eff6ebccfdf4,,Human,Male,SA 1986,Unnamed wife,SA 2386,Númenor,,Tar-Ancalimon,http://lotr.wikia.com//wiki/Tar-Ancalimon
+565,5cd99d4bde30eff6ebccfdf5,,Human,Male,SA 1003,Unnamed wife,SA 1404,Númenor,,Tar-Anárion,http://lotr.wikia.com//wiki/Tar-An%C3%A1rion
+566,5cd99d4bde30eff6ebccfdf6,,Human,Male,SA 2618,Unnamed wife,SA 2899,Númenor,,Tar-Ardamin,http://lotr.wikia.com//wiki/Tar-Ardamin
+567,5cd99d4bde30eff6ebccfdf7,,Human,Male,SA 1800,Unnamed wife,SA 2221,Númenor,,Tar-Atanamir,http://lotr.wikia.com//wiki/Tar-Atanamir
+568,5cd99d4bde30eff6ebccfdf8,,Human,Male,SA 2516,Unnamed wife,SA 2825,Númenor,,Tar-Calmacil,http://lotr.wikia.com//wiki/Tar-Calmacil
+569,5cd99d4bde30eff6ebccfdf9,,Human,Male,SA 1634,Unnamed wife,SA 2035,Númenor,,Tar-Ciryatan,http://lotr.wikia.com//wiki/Tar-Ciryatan
+570,5cd99d4bde30eff6ebccfdfa,,Human,Male,SA 350,Unnamed wife,SA 751,Númenor,,Tar-Elendil,http://lotr.wikia.com//wiki/Tar-Elendil
+571,5cd99d4bde30eff6ebccfdfb,,Human,Female,SA 873,Hallacar,SA 1285,Númenor,,Tar-Ancalimë,http://lotr.wikia.com//wiki/Tar-Ancalim%C3%AB
+572,5cd99d4bde30eff6ebccfdfc,,Human,Male,SA 3035,Unnamed wife,SA 3255,Númenor,,Tar-Palantir,http://lotr.wikia.com//wiki/Tar-Palantir
+573,5cd99d4bde30eff6ebccfdfd,,Human,Male,SA 1174,Unnamed wife,SA 1574,Númenor,,Tar-Súrion,http://lotr.wikia.com//wiki/Tar-S%C3%BArion
+574,5cd99d4bde30eff6ebccfdfe,,Human,Male,SA 1474,Unnamed wife,SA 1873,Númenor,,Tar-Minastir,http://lotr.wikia.com//wiki/Tar-Minastir
+575,5cd99d4bde30eff6ebccfdff,,Human,Female,SA 3117,Ar-Pharazôn,SA 3319,Númenor,,Tar-Míriel,http://lotr.wikia.com//wiki/Tar-M%C3%ADriel
+576,5cd99d4bde30eff6ebccfe00,,Human,Female,SA 1320,None,SA 1731,Númenor,,Tar-Telperiën,http://lotr.wikia.com//wiki/Tar-Telperi%C3%ABn
+577,5cd99d4bde30eff6ebccfe01,,Human,Female,SA 2277,Herucalmo,SA 2637,Númenor,,Tar-Vanimeldë,http://lotr.wikia.com//wiki/Tar-Vanimeld%C3%AB
+578,5cd99d4bde30eff6ebccfe02,,Human,Male,TA 654,Berúthiel,TA 913,Gondor,,Tarannon Falastur,http://lotr.wikia.com//wiki/Tarannon_Falastur
+579,5cd99d4bde30eff6ebccfe03,,Human,Male,SA 2136,Unnamed wife,SA 2526,Númenor,,Tar-Telemmaitë,http://lotr.wikia.com//wiki/Tar-Telemmait%C3%AB
+580,5cd99d4bde30eff6ebccfe04,,Human,Male,TA 280,Unnamed wife,TA 515,Arnor,,Tarcil,http://lotr.wikia.com//wiki/Tarcil
+581,5cd99d4bde30eff6ebccfe05,,Human,Male,SA 543,Almarian,SA 942,Númenor,,Tar-Meneldur,http://lotr.wikia.com//wiki/Tar-Meneldur
+582,5cd99d4bde30eff6ebccfe06,,Human,Male,"Late ,Third Age",,,,,Targon,http://lotr.wikia.com//wiki/Targon
+583,5cd99d4bde30eff6ebccfe07,,Elf,Male,"Unknown, awakened in the ,Years of the Trees",Tatië,,,,Tata,http://lotr.wikia.com//wiki/Tata
+584,5cd99d4bde30eff6ebccfe08,,Elf,Female,"Unknown, awakened in the ,Years of the Trees",Tata,,,,Tatië,http://lotr.wikia.com//wiki/Tati%C3%AB
+585,5cd99d4bde30eff6ebccfe09,,Human,Male,"After ,TA 654",Unnamed wife,"Before ,TA 913",,,Tarciryan,http://lotr.wikia.com//wiki/Tarciryan
+586,5cd99d4bde30eff6ebccfe0a,,Dwarf,Male,First Age,,First Age,,,Telchar,http://lotr.wikia.com//wiki/Telchar
+587,5cd99d4bde30eff6ebccfe0b,,Human,Male,TA 1516,Unnamed wife,TA 1636,Gondor,,Telemnar,http://lotr.wikia.com//wiki/Telemnar
+588,5cd99d4bde30eff6ebccfe0c,,Human,Male,TA 1632,Unnamed wife,TA 1850,Gondor,,Telumehtar,http://lotr.wikia.com//wiki/Telumehtar
+589,5cd99d4bde30eff6ebccfe0d,Tall,Human,Male,Second Age,,"Sometime after the ,War of the Last Alliance","White Mountains,Paths of the Dead",,The King of the Dead,http://lotr.wikia.com//wiki/The_King_of_the_Dead
+590,5cd99d4bde30eff6ebccfe0e,,Human,Male,TA 1577,Unnamed wife,TA 1798,Gondor,,Tarondor,http://lotr.wikia.com//wiki/Tarondor
+591,5cd99d4bde30eff6ebccfe0f,,Human,Male,TA 372,Unnamed wife,TA 602,Arnor,,Tarondor of Arnor,http://lotr.wikia.com//wiki/Tarondor_of_Arnor
+592,5cd99d4bde30eff6ebccfe10,,Hobbit,,,,,,,User:Technobliterator/Showcase,http://lotr.wikia.com//wiki/User:Technobliterator/Showcase
+593,5cd99d4bde30eff6ebccfe11,,Human,Male,TA 2905,Morwen Steelsheen,TA 2980,Rohan,,Thengel,http://lotr.wikia.com//wiki/Thengel
+594,5cd99d4bde30eff6ebccfe12,,Human,Male,TA 2782,Unnamed wife,TA 2882,,,Thorondir,http://lotr.wikia.com//wiki/Thorondir
+595,5cd99d4bde30eff6ebccfe13,Tall,Elf,Male,First Age,Unnamed wife,"Presumably departed to ,Aman","Woodland Realm,Mirkwood",Golden,Thranduil,http://lotr.wikia.com//wiki/Thranduil
+596,5cd99d4bde30eff6ebccfe14,,Dwarf,Male,TA 1934,Unnamed wife,TA 2190,Khazad-dûm,,Thráin I,http://lotr.wikia.com//wiki/Thr%C3%A1in_I
+597,5cd99d4bde30eff6ebccfe15,,Dwarf,Male,TA 2746,,"November 23, TA 2941",Ered Luin,,Thorin II Oakenshield,http://lotr.wikia.com//wiki/Thorin_II_Oakenshield
+598,5cd99d4bde30eff6ebccfe16,,Dwarf,Male,TA 2644,Unnamed wife,TA 2850,Lonely Mountain,,Thráin II,http://lotr.wikia.com//wiki/Thr%C3%A1in_II
+599,5cd99d4bde30eff6ebccfe17,,Dwarf,Male,TA 2866,,"FO 137,(aged 280)","Lonely Mountain,Iron Hills",,Thorin III Stonehelm,http://lotr.wikia.com//wiki/Thorin_III_Stonehelm
+600,5cd99d4bde30eff6ebccfe18,,Dwarf,Male,TA 2542,Unnamed wife,TA 2790,"Grey Mountains,Lonely Mountain",Grey-white,Thrór,http://lotr.wikia.com//wiki/Thr%C3%B3r
+601,5cd99d4bde30eff6ebccfe19,Tall,Human,Male,"TA 2948 ,Gondor",Elfhild,"March 15 ,3019",,White with braids (book) Blonde (films),Théoden,http://lotr.wikia.com//wiki/Th%C3%A9oden
+602,5cd99d4bde30eff6ebccfe1a,,Human,Male,TA 2978,,"February 25 ,3019",,,Théodred,http://lotr.wikia.com//wiki/Th%C3%A9odred
+603,5cd99d4bde30eff6ebccfe1b,,Human,Female,"After ,SA 61",,"Early ,Second Age",,,Tindómiel,http://lotr.wikia.com//wiki/Tind%C3%B3miel
+604,5cd99d4bde30eff6ebccfe1c,,Dwarf,Male,TA 2035,Unnamed wife,TA 2289,"Lonely Mountain,Grey Mountains",,Thorin I,http://lotr.wikia.com//wiki/Thorin_I
+605,5cd99d4bde30eff6ebccfe1d,,Hobbit,Male,FO 10,Goldilocks Gardner,FO 112,,,Faramir Took I,http://lotr.wikia.com//wiki/Faramir_Took_I
+606,5cd99d4bde30eff6ebccfe1e,,Hobbit,Male,TA 2295,,TA 2398,,,Isumbras Took I,http://lotr.wikia.com//wiki/Isumbras_Took_I
+607,5cd99d4bde30eff6ebccfe1f,,Hobbit,Male,TA 2878,Lalia Clayhanger,TA 2980,,,Fortinbras Took II,http://lotr.wikia.com//wiki/Fortinbras_Took_II
+608,5cd99d4bde30eff6ebccfe20,,Hobbit,Male,TA 2666,Unnamed wife,TA 2759,,,Isumbras Took III,http://lotr.wikia.com//wiki/Isumbras_Took_III
+609,5cd99d4bde30eff6ebccfe21,,Hobbit,Male,TA 2880,Unnamed wife,TA 2982,,,Adalgrim Took,http://lotr.wikia.com//wiki/Adalgrim_Took
+610,5cd99d4bde30eff6ebccfe22,,Hobbit,Female,TA 2817,"Gerontius ""The Old"" Took",TA 2923,,,Adamanta (Chubb) Took,http://lotr.wikia.com//wiki/Adamanta_(Chubb)_Took
+611,5cd99d4bde30eff6ebccfe23,,Hobbit,Male,TA 2620,Unnamed wife,TA 2722,,,Isengrim Took II,http://lotr.wikia.com//wiki/Isengrim_Took_II
+612,5cd99d4bde30eff6ebccfe24,,Hobbit,Male,TA 2928,Unnamed wife,FO 2,,,Adelard Took,http://lotr.wikia.com//wiki/Adelard_Took
+613,5cd99d4bde30eff6ebccfe25,,Hobbit,Male,TA 2916,None,TA 3015,,,Ferumbras III Took,http://lotr.wikia.com//wiki/Ferumbras_III_Took
+614,5cd99d4bde30eff6ebccfe26,"1.35m (4'5"")",Hobbit,Male,TA 2701,Unnamed wife,TA 2800,,,Bandobras Took,http://lotr.wikia.com//wiki/Bandobras_Took
+615,5cd99d4bde30eff6ebccfe27,,Hobbit,Male,TA 2844,,,,,Hildifons Took,http://lotr.wikia.com//wiki/Hildifons_Took
+616,5cd99d4bde30eff6ebccfe28,,Hobbit,Male,TA 2847,,"TA 2946, (SR 1346",,,Isembard Took,http://lotr.wikia.com//wiki/Isembard_Took
+617,5cd99d4bde30eff6ebccfe29,,Hobbit,Male,SR 1240,Rosa Baggins,SR 1341,,,Hildigrim Took,http://lotr.wikia.com//wiki/Hildigrim_Took
+618,5cd99d4bde30eff6ebccfe2a,,Hobbit,Male,TA 2790,Adamanta Chubb,TA 2920,,,Gerontius Took,http://lotr.wikia.com//wiki/Gerontius_Took
+619,5cd99d4bde30eff6ebccfe2b,,Hobbit,Male,TA 2849,,TA 2934,,,Hildibrand Took,http://lotr.wikia.com//wiki/Hildibrand_Took
+620,5cd99d4bde30eff6ebccfe2c,,Hobbit,Male,TA 2933,Eglantine Banks,FO 13,,,Paladin Took II,http://lotr.wikia.com//wiki/Paladin_Took_II
+621,5cd99d4bde30eff6ebccfe2d,,Hobbit,Female,TA 2975,None,"before ,FO 63",,,Pearl Took,http://lotr.wikia.com//wiki/Pearl_Took
+622,5cd99d4bde30eff6ebccfe2e,"1.34m (4'5"")",Hobbit,Male,TA 2990,Diamond of Long Cleeve,FO 65,,Almost golden,Peregrin Took,http://lotr.wikia.com//wiki/Peregrin_Took
+623,5cd99d4bde30eff6ebccfe2f,,Hobbit,Female,SR 1256,Hildigrim Took,,,,Rosa (Baggins) Took,http://lotr.wikia.com//wiki/Rosa_(Baggins)_Took
+624,5cd99d4bde30eff6ebccfe30,,Hobbit,Male,TA 2890,Unnamed wife,TA 2981,,,Sigismond Took,http://lotr.wikia.com//wiki/Sigismond_Took
+625,5cd99d4bde30eff6ebccfe31,,Elf,Male,YT 1300,Elenwë,FA 510,"Nevrast,Gondolin",Dark,Turgon,http://lotr.wikia.com//wiki/Turgon
+626,5cd99d4bde30eff6ebccfe32,,Human,Male,TA 2855,Unnamed wife,TA 2953,,,Turgon (Steward),http://lotr.wikia.com//wiki/Turgon_(Steward)
+627,5cd99d4bde30eff6ebccfe33,Tall,Human,Male,FA 464,Nienor,FA 499,,Dark,Túrin,http://lotr.wikia.com//wiki/T%C3%BArin
+628,5cd99d4bde30eff6ebccfe34,,Elf,Male,YT,Unnamed wife,,,,Tulkastor,http://lotr.wikia.com//wiki/Tulkastor
+629,5cd99d4bde30eff6ebccfe35,Tall,Human,Male,FA 472,Idril Celebrindal,None; sailed into the West and was accounted amongst the Eldar,,Golden,Tuor,http://lotr.wikia.com//wiki/Tuor
+630,5cd99d4bde30eff6ebccfe36,,Human,Male,TA 397,Unnamed wife,TA 667,Gondor,,Turambar,http://lotr.wikia.com//wiki/Turambar
+631,5cd99d4bde30eff6ebccfe37,,Human,Male,"Mid ,First Age",,FA 473,,,Uldor,http://lotr.wikia.com//wiki/Uldor
+632,5cd99d4bde30eff6ebccfe38,,Human,Male,TA 2815,Unnamed wife,TA 2914,,,Túrin II,http://lotr.wikia.com//wiki/T%C3%BArin_II
+633,5cd99d4bde30eff6ebccfe39,,Human,Male,"Late ,First Age",Unnamed wife,FA 473,,,Ulfang,http://lotr.wikia.com//wiki/Ulfang
+634,5cd99d4bde30eff6ebccfe3a,,Human,Male,"Mid ,First Age",,FA 473,,,Ulfast,http://lotr.wikia.com//wiki/Ulfast
+635,5cd99d4bde30eff6ebccfe3b,,Human,Male,"Early ,Second Age",Unnamed wife,Mid Second Age,,,Ulbar,http://lotr.wikia.com//wiki/Ulbar
+636,5cd99d4bde30eff6ebccfe3c,,Human,Male,TA 2165,Unnamed wife,TA 2278,,,Túrin I,http://lotr.wikia.com//wiki/T%C3%BArin_I
+637,5cd99d4bde30eff6ebccfe3d,,Human,Male,"Late ,First Age",,FA 460,,,Urthel,http://lotr.wikia.com//wiki/Urthel
+638,5cd99d4bde30eff6ebccfe3e,,Human,Male,"Mid ,First Age",,FA 473,,,Ulwarth,http://lotr.wikia.com//wiki/Ulwarth
+639,5cd99d4bde30eff6ebccfe3f,,Elf,Female,YT,Lindo,,,,Vairë (Elf),http://lotr.wikia.com//wiki/Vair%C3%AB_(Elf)
+640,5cd99d4bde30eff6ebccfe40,,Human,Male,TA 1194,Vidumavi,TA 1432,Gondor,,Valacar,http://lotr.wikia.com//wiki/Valacar
+641,5cd99d4bde30eff6ebccfe41,,Human,Male,SA 3430,Unnamed wife,TA 249,Arnor,,Valandil,http://lotr.wikia.com//wiki/Valandil
+642,5cd99d4bde30eff6ebccfe42,,Human,Male,TA 462,Unnamed wife,TA 652,Arnor,,Valandur,http://lotr.wikia.com//wiki/Valandur
+643,5cd99d4bde30eff6ebccfe43,,Human,Male,"Early ,Second Age",,"Early ,Second Age",,,Valandil of Andúnië,http://lotr.wikia.com//wiki/Valandil_of_And%C3%BAni%C3%AB
+644,5cd99d4bde30eff6ebccfe44,,Human,Male,"Mid-,Third Age",Unnamed wife,,Rhovanion,,Vidugavia,http://lotr.wikia.com//wiki/Vidugavia
+645,5cd99d4bde30eff6ebccfe45,,Human,Male,SA 61,Unnamed wife,SA 471,Númenor,,Vardamir Nólimon,http://lotr.wikia.com//wiki/Vardamir_N%C3%B3limon
+646,5cd99d4bde30eff6ebccfe46,,Human,Female,SA 203,,"Early ,Second Age",,,Vardilmë,http://lotr.wikia.com//wiki/Vardilm%C3%AB
+647,5cd99d4bde30eff6ebccfe47,,Human,Female,"Before ,TA 1255",Valacar,TA 1344,,,Vidumavi,http://lotr.wikia.com//wiki/Vidumavi
+648,5cd99d4bde30eff6ebccfe48,,Human,Male,TA 1919,Unnamed wife,TA 2029,,,Vorondil,http://lotr.wikia.com//wiki/Vorondil
+649,5cd99d4bde30eff6ebccfe49,,Elf,Male,First Age,None known,,,,Voronwë,http://lotr.wikia.com//wiki/Voronw%C3%AB
+650,5cd99d4bde30eff6ebccfe4a,,Human,Male,SA 425,Unnamed wife,"Early ,Second Age",,,Vëantur,http://lotr.wikia.com//wiki/V%C3%ABantur
+651,5cd99d4bde30eff6ebccfe4b,,Human,Male,TA 2780,Unnamed wife,TA 2851,,,Walda,http://lotr.wikia.com//wiki/Walda
+652,5cd99d4bde30eff6ebccfe4c,,Hobbit,Male,"Late ,Third Age",,"Early ,TA 3019",Bree,,Willie Banks,http://lotr.wikia.com//wiki/Willie_Banks
+653,5cd99d4bde30eff6ebccfe4d,,Hobbit,Male,TA 2800,Unnamed wife,,,,Wiseman Gamwich,http://lotr.wikia.com//wiki/Wiseman_Gamwich
+654,5cd99d4bde30eff6ebccfe4e,,Human,Male,"Late ,Third Age",,TA 2759,Rohan,,Wulf I,http://lotr.wikia.com//wiki/Wulf_I
+655,5cd99d4bde30eff6ebccfe4f,,Human,Male,"Late-,Third Age",Unnamed wife,"Early-,Fourth Age",,,Wídfara,http://lotr.wikia.com//wiki/W%C3%ADdfara
+656,5cd99d4bde30eff6ebccfe53,,Elf,,,,,,,Írimë,http://lotr.wikia.com//wiki/%C3%8Drim%C3%AB
+657,5cd99d4bde30eff6ebccfe55,,Dwarf,,,,,,,Óin,http://lotr.wikia.com//wiki/%C3%93in
+658,5cd99d4bde30eff6ebccfe56,,Human,Female,SA 371,,,,,Yávien,http://lotr.wikia.com//wiki/Y%C3%A1vien
+659,5cd99d4bde30eff6ebccfe57,,Hobbit,,,,,,,Dora Baggins,http://lotr.wikia.com//wiki/Dora_Baggins
+660,5cd99d4bde30eff6ebccfe58,,Hobbit,,,,,,,Largo Baggins,http://lotr.wikia.com//wiki/Largo_Baggins
+661,5cd99d4bde30eff6ebccfe59,,Hobbit,,,,,,,Mimosa (Bunce) Baggins,http://lotr.wikia.com//wiki/Mimosa_(Bunce)_Baggins
+662,5cd99d4bde30eff6ebccfe5a,,Hobbit,,,,,,,Pansy Baggins,http://lotr.wikia.com//wiki/Pansy_Baggins
+663,5cd99d4bde30eff6ebccfe5b,,Hobbit,,,,,,,Polo Baggins,http://lotr.wikia.com//wiki/Polo_Baggins
+664,5cd99d4bde30eff6ebccfe5c,,Hobbit,,,,,,,Ponto Baggins I,http://lotr.wikia.com//wiki/Ponto_Baggins_I
+665,5cd99d4bde30eff6ebccfe5d,,Hobbit,,,,,,,Bingo Baggins,http://lotr.wikia.com//wiki/Bingo_Baggins
+666,5cd99d4bde30eff6ebccfe5e,,Hobbit,,,,,,,Chica (Chubb) Baggins,http://lotr.wikia.com//wiki/Chica_(Chubb)_Baggins
+667,5cd99d4bde30eff6ebccfe5f,,Dwarf,,,,,,,Óin (King of Durin's Folk),http://lotr.wikia.com//wiki/%C3%93in_(King_of_Durin%27s_Folk)
+668,5cd99d4bde30eff6ebccfe60,,Hobbit,,,,,,,Prisca (Baggins) Bolger,http://lotr.wikia.com//wiki/Prisca_(Baggins)_Bolger
+669,5cd99d4bde30eff6ebccfe61,,Hobbit,,,,,,,Rudibert Bolger,http://lotr.wikia.com//wiki/Rudibert_Bolger
+670,5cd99d4bde30eff6ebccfe62,,Hobbit,,,,,,,Theobald Bolger,http://lotr.wikia.com//wiki/Theobald_Bolger
+671,5cd99d4bde30eff6ebccfe63,,Hobbit,,,,,,,Adalgar Bolger,http://lotr.wikia.com//wiki/Adalgar_Bolger
+672,5cd99d4bde30eff6ebccfe64,,Hobbit,,,,,,,Ruby (Bolger) Baggins,http://lotr.wikia.com//wiki/Ruby_(Bolger)_Baggins
+673,5cd99d4bde30eff6ebccfe65,,Hobbit,,,,,,,Wilimar Bolger,http://lotr.wikia.com//wiki/Wilimar_Bolger
+674,5cd99d4bde30eff6ebccfe66,,Hobbit,,,,,,,Camellia (Sackville) Baggins,http://lotr.wikia.com//wiki/Camellia_(Sackville)_Baggins
+675,5cd99d4bde30eff6ebccfe67,,Hobbit,,,,,,,Everard Took,http://lotr.wikia.com//wiki/Everard_Took
+676,5cd99d4bde30eff6ebccfe68,,Hobbit,,,,,,,Gundahar Bolger,http://lotr.wikia.com//wiki/Gundahar_Bolger
+677,5cd99d4bde30eff6ebccfe69,,Hobbit,,,,,,,Ferdinand Took,http://lotr.wikia.com//wiki/Ferdinand_Took
+678,5cd99d4bde30eff6ebccfe6a,,Hobbit,,,,,,,Pervinca Took,http://lotr.wikia.com//wiki/Pervinca_Took
+679,5cd99d4bde30eff6ebccfe6b,,Hobbit,,,,,,,Pimpernel Took,http://lotr.wikia.com//wiki/Pimpernel_Took
+680,5cd99d4bde30eff6ebccfe6c,,Hobbit,,,,,,,Ferdibrand Took,http://lotr.wikia.com//wiki/Ferdibrand_Took
+681,5cd99d4bde30eff6ebccfe6d,,Hobbit,,,,,,,Reginard Took,http://lotr.wikia.com//wiki/Reginard_Took
+682,5cd99d4bde30eff6ebccfe6e,,Hobbit,,,,,,,Flambard Took,http://lotr.wikia.com//wiki/Flambard_Took
+683,5cd99d4bde30eff6ebccfe6f,,Hobbit,,,,,,,Lalia (Clayhanger) Took,http://lotr.wikia.com//wiki/Lalia_(Clayhanger)_Took
+684,5cd99d4bde30eff6ebccfe70,,Hobbit,,,,,,,Ruby Gamgee,http://lotr.wikia.com//wiki/Ruby_Gamgee
+685,5cd99d4bde30eff6ebccfe71,,Hobbit,,,,,,,Rudolph Bolger,http://lotr.wikia.com//wiki/Rudolph_Bolger
+686,5cd99d4bde30eff6ebccfe72,,Hobbit,,,,,,,Tanta (Hornblower) Baggins,http://lotr.wikia.com//wiki/Tanta_(Hornblower)_Baggins
+687,5cd99d4bde30eff6ebccfe73,,Hobbit,,,,,,,Inigo Baggins,http://lotr.wikia.com//wiki/Inigo_Baggins
+688,5cd99d4bde30eff6ebccfe74,,Hobbit,,,,,,,Tanta Hornblower,http://lotr.wikia.com//wiki/Tanta_Hornblower
+689,5cd99d4bde30eff6ebccfe75,,Hobbit,,,,,,,Tobold Hornblower,http://lotr.wikia.com//wiki/Tobold_Hornblower
+690,5cd99d4bde30eff6ebccfe76,,Hobbit,,,,,,,Lily (Baggins) Goodbody,http://lotr.wikia.com//wiki/Lily_(Baggins)_Goodbody
+691,5cd99d4bde30eff6ebccfe77,,Hobbit,,,,,,,Togo Goodbody,http://lotr.wikia.com//wiki/Togo_Goodbody
+692,5cd99d4bde30eff6ebccfe78,,Hobbit,,,,,,,Goldberry,http://lotr.wikia.com//wiki/Goldberry
+693,5cd99d4bde30eff6ebccfe79,,Hobbit,,,,,,,Bell (Goodchild) Gamgee,http://lotr.wikia.com//wiki/Bell_(Goodchild)_Gamgee
+694,5cd99d4bde30eff6ebccfe7a,,Hobbit,,,,,,,Goldilocks (Gardner) Took,http://lotr.wikia.com//wiki/Goldilocks_(Gardner)_Took
+695,5cd99d4bde30eff6ebccfe7b,,Hobbit,,,,,,,Merry Gamgee,http://lotr.wikia.com//wiki/Merry_Gamgee
+696,5cd99d4bde30eff6ebccfe7c,,Hobbit,,,,,,,Bilbo Gamgee,http://lotr.wikia.com//wiki/Bilbo_Gamgee
+697,5cd99d4bde30eff6ebccfe7d,,Hobbit,,,,,,,Halfast Gamgee,http://lotr.wikia.com//wiki/Halfast_Gamgee
+698,5cd99d4bde30eff6ebccfe7e,,Hobbit,,,,,,,Rose Gamgee,http://lotr.wikia.com//wiki/Rose_Gamgee
+699,5cd99d4bde30eff6ebccfe7f,,Hobbit,,,,,,,Pippin Gamgee,http://lotr.wikia.com//wiki/Pippin_Gamgee
+700,5cd99d4bde30eff6ebccfe80,,Dwarf,,,,,,,Durin,http://lotr.wikia.com//wiki/Durin
+701,5cd99d4bde30eff6ebccfe81,,Hobbit,,,,,,,Poppy (Chubb-Baggins) Bolger,http://lotr.wikia.com//wiki/Poppy_(Chubb-Baggins)_Bolger
+702,5cd99d4bde30eff6ebccfe82,,Hobbit,,,,,,,Robin Gardner,http://lotr.wikia.com//wiki/Robin_Gardner
+703,5cd99d4bde30eff6ebccfe83,,Hobbit,,,,,,,Primrose Gardner,http://lotr.wikia.com//wiki/Primrose_Gardner
+704,5cd99d4bde30eff6ebccfe84,,Hobbit,,,,,,,Hamfast Gardner,http://lotr.wikia.com//wiki/Hamfast_Gardner
+705,5cd99d4bde30eff6ebccfe85,,Hobbit,Male,TA 2980,Marigold Cotton,FO 60,,,Tolman Cotton Jr.,http://lotr.wikia.com//wiki/Tolman_Cotton_Jr.
+706,5cd99d4bde30eff6ebccfe86,,Hobbit,,,,,,,Carl Cotton,http://lotr.wikia.com//wiki/Carl_Cotton
+707,5cd99d4bde30eff6ebccfe87,,Hobbit,,,,,,,Wilcome Cotton,http://lotr.wikia.com//wiki/Wilcome_Cotton
+708,5cd99d4bde30eff6ebccfe88,,Hobbit,,,,,,,Doderic Brandybuck,http://lotr.wikia.com//wiki/Doderic_Brandybuck
+709,5cd99d4bde30eff6ebccfe89,,Hobbit,,,,,,,Daisy Gamgee,http://lotr.wikia.com//wiki/Daisy_Gamgee
+710,5cd99d4bde30eff6ebccfe8a,,Hobbit,,,,,,,Berilac Brandybuck,http://lotr.wikia.com//wiki/Berilac_Brandybuck
+711,5cd99d4bde30eff6ebccfe8b,,Hobbit,,,,,,,Gorbadoc Brandybuck,http://lotr.wikia.com//wiki/Gorbadoc_Brandybuck
+712,5cd99d4bde30eff6ebccfe8c,,Hobbit,,,,,,,Marmadoc Brandybuck,http://lotr.wikia.com//wiki/Marmadoc_Brandybuck
+713,5cd99d4bde30eff6ebccfe8d,,Hobbit,,,,,,,Ilberic Brandybuck,http://lotr.wikia.com//wiki/Ilberic_Brandybuck
+714,5cd99d4bde30eff6ebccfe8e,,Hobbit,,,,,,,Orgulas Brandybuck,http://lotr.wikia.com//wiki/Orgulas_Brandybuck
+715,5cd99d4bde30eff6ebccfe8f,,Hobbit,,,,,,,Rorimac Brandybuck,http://lotr.wikia.com//wiki/Rorimac_Brandybuck
+716,5cd99d4bde30eff6ebccfe90,,Hobbit,,,,,,,Merimac Brandybuck,http://lotr.wikia.com//wiki/Merimac_Brandybuck
+717,5cd99d4bde30eff6ebccfe91,,Hobbit,,,,,,,Salvia (Brandybuck) Bolger,http://lotr.wikia.com//wiki/Salvia_(Brandybuck)_Bolger
+718,5cd99d4bde30eff6ebccfe92,,Hobbit,,,,,,,Bilbo Gardner,http://lotr.wikia.com//wiki/Bilbo_Gardner
+719,5cd99d4bde30eff6ebccfe93,,Hobbit,,,,,,,Briffo Boffin,http://lotr.wikia.com//wiki/Briffo_Boffin
+720,5cd99d4bde30eff6ebccfe94,,Hobbit,,,,,,,Gruffo Boffin,http://lotr.wikia.com//wiki/Gruffo_Boffin
+721,5cd99d4bde30eff6ebccfe95,,Hobbit,,,,,,,Lavender (Grubb) Boffin,http://lotr.wikia.com//wiki/Lavender_(Grubb)_Boffin
+722,5cd99d4bde30eff6ebccfe96,,Hobbit,,,,,,,Uffo Boffin,http://lotr.wikia.com//wiki/Uffo_Boffin
+723,5cd99d4bde30eff6ebccfe97,,Hobbit,,,,,,,Bodo Proudfoot,http://lotr.wikia.com//wiki/Bodo_Proudfoot
+724,5cd99d4bde30eff6ebccfe98,,Hobbit,,,,,,,Sancho Proudfoot,http://lotr.wikia.com//wiki/Sancho_Proudfoot
+725,5cd99d4bde30eff6ebccfe99,,Hobbit,,,,,,,Olo Proudfoot,http://lotr.wikia.com//wiki/Olo_Proudfoot
+726,5cd99d4bde30eff6ebccfe9a,,Hobbit,,,,,,,Saradoc Brandybuck,http://lotr.wikia.com//wiki/Saradoc_Brandybuck
+727,5cd99d4bde30eff6ebccfe9b,,Elf,Female,"Unknown, possibly sometime during the ,Years of the Trees",Dior Eluchíl,FA 506,Doriath,,Nimloth (elf),http://lotr.wikia.com//wiki/Nimloth_(elf)
+728,5cd99d4bde30eff6ebccfe9c,,Hobbit,,,,,,,Linda (Baggins) Proudfoot,http://lotr.wikia.com//wiki/Linda_(Baggins)_Proudfoot
+729,5cd99d4bde30eff6ebccfe9d,,Human,Male,TA 2974,,"November 3 ,3019",,Black,Gríma Wormtongue,http://lotr.wikia.com//wiki/Gr%C3%ADma_Wormtongue
+730,5cd99d4bde30eff6ebccfe9e,,Hobbit,Male,TA 2430,,"March 25 ,3019",,,Gollum,http://lotr.wikia.com//wiki/Gollum
+731,5cd99d4bde30eff6ebccfe9f,,Elf,Male,,,,,,Legolas (elf of Gondolin),http://lotr.wikia.com//wiki/Legolas_(elf_of_Gondolin)
+732,5cd99d4bde30eff6ebccfea0,,Maiar,Male,Before the the Shaping of Arda,,"January 253019 ,Battle of the Peak immortal",,"Grey, later white",Gandalf,http://lotr.wikia.com//wiki/Gandalf
+733,5cd99d4bde30eff6ebccfea1,,Maiar,Male,"Before the creation of ,Arda",None,None,,Brown-gray (films),Radagast,http://lotr.wikia.com//wiki/Radagast
+734,5cd99d4bde30eff6ebccfea2,,Maiar,Male,Before the creation of Arda,None,Immortal,,,Tilion,http://lotr.wikia.com//wiki/Tilion
+735,5cd99d4bde30eff6ebccfea3,,Elf,Male,,,"FA 510,(presumably)",,,Elemmakil,http://lotr.wikia.com//wiki/Elemmakil
+736,5cd99d4bde30eff6ebccfea4,,Maiar,Male,"Before the creation of ,Arda",None,"3 November ,3019","Isengard,Nan Curunír",White,Saruman,http://lotr.wikia.com//wiki/Saruman
+737,5cd99d4bde30eff6ebccfea5,Various until,Maiar,Male,"Before the creation of ,Arda",None,"March 25 ,3019",,Various,Sauron,http://lotr.wikia.com//wiki/Sauron
+738,5cd99d4bde30eff6ebccfea6,,Maiar,Male,"Before the creation of ,Arda",,Immortal,,,Eönwë,http://lotr.wikia.com//wiki/E%C3%B6nw%C3%AB
+739,5cd99d4bde30eff6ebccfea7,"Slightly larger and taller than a Man (book), 20 feet (movie)",Maiar,Male,"Before the creation of ,Arda",,January 253019,,Mane of red flames,Durin's Bane,http://lotr.wikia.com//wiki/Durin%27s_Bane
+740,5cd99d4bde30eff6ebccfea8,,Maiar,Male,Before the creation of Arda,None,,,,Alatar,http://lotr.wikia.com//wiki/Alatar
+741,5cd99d4bde30eff6ebccfea9,,Maiar,Female,"Before the creation of ,Arda",None,Immortal,,,Arien,http://lotr.wikia.com//wiki/Arien
+742,5cd99d4bde30eff6ebccfeaa,,Maiar,Female,"Before the creation of ,Arda",Ossë,Immortal,,,Uinen,http://lotr.wikia.com//wiki/Uinen
+743,5cd99d4bde30eff6ebccfeab,,Hobbit,,,,,,,Mosco Burrows,http://lotr.wikia.com//wiki/Mosco_Burrows
+744,5cd99d4bde30eff6ebccfeac,,Hobbit,,,,,,,Myrtle Burrows,http://lotr.wikia.com//wiki/Myrtle_Burrows
+745,5cd99d4bde30eff6ebccfead,,Maiar,Male,Before the creation of Arda,,,,,Pallando,http://lotr.wikia.com//wiki/Pallando
+746,5cd99d4bde30eff6ebccfeae,,Hobbit,,,,,,,Moro Burrows,http://lotr.wikia.com//wiki/Moro_Burrows
+747,5cd99d4bde30eff6ebccfeaf,"Tallest of the Elven-folk, 8'2""",Elf,Male,YT 1050,Melian,FA 502,Doriath,Silver,Thingol,http://lotr.wikia.com//wiki/Thingol
+748,5cd99d4bde30eff6ebccfeb0,,Human,,,,,,,Théodwyn,http://lotr.wikia.com//wiki/Th%C3%A9odwyn
+749,5cd99d4bde30eff6ebccfeb1,,Human,Male,FA 503,Elwing,Still Alive,,Golden,Eärendil,http://lotr.wikia.com//wiki/E%C3%A4rendil
+750,5cd99d4bde30eff6ebccfeb2,,Human,Male,"Late ,Third Age",,"Presumably sometime after ,TA 3019",,,Harry Goatleaf,http://lotr.wikia.com//wiki/Harry_Goatleaf
+751,5cd9d533844dc4c55e47afed,15'4,Ent,Male,YT,Fimbrethil,,,"Leaf, twig and moss like",Treebeard,http://lotr.wikia.com//wiki/Treebeard
+752,5cd9d576844dc4c55e47afee,,Human,,,,,,,Witch-King of Angmar,http://lotr.wikia.com//wiki/Witch-king_of_Angmar
+753,5cd9d5a0844dc4c55e47afef,"6' 7"" (2.01 m)",Human,Male,First Age,None,"Probably died on ,March 25TA 3019, during destruction of ,Mordor",,Most likely black or none,Mouth of Sauron,http://lotr.wikia.com//wiki/Mouth_of_Sauron
+754,5cd9d5cf844dc4c55e47aff0,,Human,,,,,,,Irolas,http://lotr.wikia.com//wiki/Irolas
+755,5cdbdecb6dc0baeae48cfa35,NaN,Orcs,Male,NaN,NaN,"March ,3019",NaN,NaN,Lagduf,
+756,5cdbdecb6dc0baeae48cfa36,NaN,Dragon,Male,NaN,NaN,NaN,NaN,NaN,Fire-drake of Gondolin,
+757,5cdbdecb6dc0baeae48cfa37,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Angrim,
+758,5cdbdecb6dc0baeae48cfa38,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Angelimar,
+759,5cdbdecb6dc0baeae48cfa39,Tall,Elves,Male,NaN,NaN,FA 510,NaN,NaN,Penlod,
+760,5cdbdecb6dc0baeae48cfa3a,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Squint-eyed Southerner,
+761,5cdbdecb6dc0baeae48cfa3b,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Fimbrethil,
+762,5cdbdecb6dc0baeae48cfa3c,NaN,Men,Male,"Late ,Third Age",NaN,"Early ,Fourth Age",NaN,Brown (film),Bill Ferny,
+763,5cdbdecb6dc0baeae48cfa3d,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Fastred of Greenholm,
+764,5cdbdecb6dc0baeae48cfa3e,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Falathar,
+765,5cdbdecb6dc0baeae48cfa3f,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Elfstan Fairbairn,
+766,5cdbdecb6dc0baeae48cfa40,NaN,Orcs,Male,NaN,NaN,February 293019,NaN,NaN,Snaga (Two Towers orc),
+767,5cdbdecb6dc0baeae48cfa41,NaN,Orcs,Male,NaN,NaN,TA 3019,NaN,NaN,Snaga,
+768,5cdbdecb6dc0baeae48cfa42,NaN,Dragons,Male,"Unknown, first appeared in ,TA 2770",NaN,"November 1 ,TA 2941",Lonely Mountain,NaN,Smaug,
+769,5cdbdecb6dc0baeae48cfa43,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Seers,
+770,5cdbdecb6dc0baeae48cfa44,Large and immense,Great Spiders,Female,"Unknown, possibly during the ,First Age",NaN,"Unknown, possibly TA 3019",Torech Ungol,NaN,Shelob,
+771,5cdbdecb6dc0baeae48cfa45,7'1,Black Uruk,Male,TA 2050,NaN,NaN,Cirith Ungol,NaN,Shagrat,
+772,5cdbdecb6dc0baeae48cfa46,NaN,Dragons,Male,NaN,NaN,TA 2000,NaN,None,Scatha,
+773,5cdbdecb6dc0baeae48cfa47,NaN,Ainur,Male,Before the creation of Arda,NaN,Immortal,NaN,NaN,Salmar,
+774,5cdbdecb6dc0baeae48cfa48,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sandyman,
+775,5cdbdecb6dc0baeae48cfa49,Short,Elves,Male,NaN,NaN,Fate officially unknown,NaN,NaN,Salgant,
+776,5cdbdecb6dc0baeae48cfa4a,NaN,Elves,Male,YT,NaN,FA 484,NaN,NaN,Saeros,
+777,5cdbdecb6dc0baeae48cfa4b,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ruffian Leader,
+778,5cdbdecb6dc0baeae48cfa4c,NaN,Raven,Male,TA 2788,NaN,NaN,NaN,NaN,Roäc,
+779,5cdbdecb6dc0baeae48cfa4d,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Andwise Roper,
+780,5cdbdecb6dc0baeae48cfa4e,NaN,Elves,Male,NaN,NaN,FA 510,NaN,NaN,Rog,
+781,5cdbdecb6dc0baeae48cfa4f,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,River-woman,
+782,5cdbdecb6dc0baeae48cfa50,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Radbug,
+783,5cdbdecb6dc0baeae48cfa51,NaN,Dwarves,Male,NaN,NaN,FA 486,NaN,NaN,Khîm,
+784,5cdbdecb6dc0baeae48cfa52,NaN,"Men,Wraith",Male,Second Age,NaN,NaN,"Rhûn,Dol Guldur,Sauron",White,Khamûl,
+785,5cdbdecb6dc0baeae48cfa53,NaN,Ainur,Male,"Before the creation of ,Arda",Estë,Immortal,NaN,NaN,Irmo,
+786,5cdbdecb6dc0baeae48cfa54,Varies,God,Male,NaN,None,NaN,Timeless Halls,"Varies, White ",Eru Ilúvatar,
+787,5cdbdecb6dc0baeae48cfa55,NaN,Ainur,Female,"Before the creation of ,Arda",NaN,NaN,NaN,NaN,Ilmarë,
+788,5cdbdecb6dc0baeae48cfa56,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Hurin (Warden of the Keys),
+789,5cdbdecb6dc0baeae48cfa57,Horse-sized,Wolfhound,Male,First Age,NaN,FA 466,NaN,NaN,Huan,
+790,5cdbdecb6dc0baeae48cfa58,NaN,Ainur,Female,"Before the creation of ,Arda",Irmo,Immortal,NaN,NaN,Estë,
+791,5cdbdecb6dc0baeae48cfa59,Tall,Men,Female,TA 2995,Faramir,FO,NaN,Pale gold,Éowyn,http://lotr.wikia.com//wiki/%C3%89owyn
+792,5cdbdecb6dc0baeae48cfa5a,Tall-6'6,Men,Male,TA 2990,Lothíriel after the War of the Ring,FO 63,Rohan,Dirty blond,Éomer,http://lotr.wikia.com//wiki/%C3%89omer
+793,5cdbdecb6dc0baeae48cfa5b,NaN,Half-elven,Female,FA 503,Eärendil,Still Alive,NaN,Dark,Elwing,
+794,5cdbdecb6dc0baeae48cfa5c,NaN,Elves,Male,FA 500,NaN,FA 506,NaN,Possibly dark,Eluréd and Elurín,
+795,5cdbdecb6dc0baeae48cfa5d,NaN,Half-elven,Male,FA 532,Unnamed wife,SA 442,Númenor,NaN,Elros,
+796,5cdbdecb6dc0baeae48cfa5e,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Elmo,
+797,5cdbdecb6dc0baeae48cfa5f,NaN,Elves,Male,NaN,"Unknown, possibly none",FA 538,NaN,NaN,Egalmoth (elf),
+798,5cdbdecb6dc0baeae48cfa60,NaN,Elves,Male,NaN,NaN,FA 510,NaN,Dark,Ecthelion of the Fountain,
+799,5cdbdecb6dc0baeae48cfa61,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ebor,
+800,5cdbdecb6dc0baeae48cfa62,NaN,Ainur,Male,"Before the creation ,Arda",Uinen,Immortal,NaN,NaN,Ossë,
+801,5cdbdecb6dc0baeae48cfa63,Varies,Ainur,Male,"Before the creation of ,Arda",Vána,Immortal,NaN,NaN,Oromë,
+802,5cdbdecb6dc0baeae48cfa64,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Orleg,
+803,5cdbdecb6dc0baeae48cfa65,NaN,Orcs,Male,NaN,NaN,FA 510,NaN,NaN,Orcobal,
+804,5cdbdecb6dc0baeae48cfa66,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Old Man Willow,
+805,5cdbdecb6dc0baeae48cfa67,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Hild,
+806,5cdbdecb6dc0baeae48cfa68,NaN,Men,Male,FO 41,NaN,NaN,NaN,NaN,Herumor (Fourth Age),
+807,5cdbdecb6dc0baeae48cfa69,NaN,Men,Male,Second Age,NaN,NaN,NaN,NaN,Herumor,
+808,5cdbdecb6dc0baeae48cfa6a,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Mat Heathertoes,
+809,5cdbdecb6dc0baeae48cfa6b,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Haldar,
+810,5cdbdecb6dc0baeae48cfa6c,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Haldad,
+811,5cdbdecb6dc0baeae48cfa6d,NaN,Werewolves,Male,NaN,NaN,FA 465,NaN,NaN,Draugluin,
+812,5cdbdecb6dc0baeae48cfa6e,NaN,Half-elven,Male,"FA 470, ",Nimloth,"FA 506, ",Doriath,Possibly dark,Dior,
+813,5cdbdecb6dc0baeae48cfa6f,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Dina Diggle,
+814,5cdbdecb6dc0baeae48cfa70,NaN,Elves,Male,YT,None,NaN,NaN,Dark ,Daeron,
+815,5cdbdecb6dc0baeae48cfa71,NaN,Men,Male,TA 2238,Unnamed wife,TA 2488,Grey Mountains,NaN,Óin (King of Durin's Folk),
+816,5cdbdecb6dc0baeae48cfa72,NaN,Dwarves,Male,TA 2774,NaN,TA 2994,NaN,NaN,Óin,
+817,5cdbdecb6dc0baeae48cfa73,Various,Ainur,Male,"Before the creation of ,Arda",None,Immortal,NaN,NaN,mar,
+818,5cdbdecb6dc0baeae48cfa74,NaN,Men,Male,"Early ,First Age",NaN,NaN,NaN,NaN,bal,
+819,5cdbdecb6dc0baeae48cfa75,NaN,Elves,Female,YT,NaN,NaN,NaN,NaN,Írimë,
+820,5cdbdecb6dc0baeae48cfa76,NaN,Men,Female,SA 700,NaN,NaN,NaN,NaN,Írildë,http://lotr.wikia.com//wiki/%C3%8Drild%C3%AB
+821,5cdbdecb6dc0baeae48cfa77,NaN,Men,Male,"Late ,Third Age",NaN,NaN,NaN,NaN,Éothain,http://lotr.wikia.com//wiki/%C3%89othain
+822,5cdbdecb6dc0baeae48cfa78,NaN,Men,Male,TA 2961,Théodwyn,TA 3002,NaN,Blond,Éomund,http://lotr.wikia.com//wiki/%C3%89omund
+823,5cdbdecb6dc0baeae48cfa79,NaN,Men,Male,"c. ,TA 2544",Unnamed wife,NaN,NaN,NaN,Éofor,http://lotr.wikia.com//wiki/%C3%89ofor
+824,5cdbdecb6dc0baeae48cfa7a,NaN,Men,Female,"Early ,Second Age",NaN,Early Second Age ,NaN,White or grey,Zamîn,
+825,5cdbdecb6dc0baeae48cfa7b,Varies,Ainur,Female,"Before the creation of ,Arda",Aulë,Immortal,Pastures of Yavanna,NaN,Yavanna,
+826,5cdbdecb6dc0baeae48cfa7c,NaN,NaN,Male,"Unknown, before the coming of Melkor",Goldberry,"Unknown, possibly immortal",Old Forest,Brown,Tom Bombadil,
+827,5cdbdecb6dc0baeae48cfa7d,"8,4  Body weight = 190kg","Goblin,Orc",Male,NaN,NaN,TA 2941,NaN,None,Bolg,
+828,5cdbdecb6dc0baeae48cfa7e,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Boldog (Character),
+829,5cdbdecb6dc0baeae48cfa7f,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bodruith,
+830,5cdbdecb6dc0baeae48cfa80,NaN,Men,Female,"Early  ,Third Age",Tarannon Falastur,NaN,Gondor,NaN,Berúthiel,
+831,5cdbdecb6dc0baeae48cfa81,NaN,Ainur,Female,"Before the creation of ,Arda",None,Immortal,"Valinor,Halls of Nienna",NaN,Nienna,
+832,5cdbdecb6dc0baeae48cfa82,Various,Ainur,Female,unknown,None,Immortal,NaN,NaN,Nielíqui,
+833,5cdbdecb6dc0baeae48cfa83,Varies,Ainur,Female,"Before the creation of ,Arda",Tulkas,Immortal,Valinor,NaN,Nessa,
+834,5cdbdecb6dc0baeae48cfa84,NaN,Elves,Female,NaN,None,NaN,NaN,NaN,Nellas,
+835,5cdbdecb6dc0baeae48cfa85,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Nauglath,
+836,5cdbdecb6dc0baeae48cfa86,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Narvi,
+837,5cdbdecb6dc0baeae48cfa87,NaN,Horse,NaN,NaN,NaN,NaN,NaN,NaN,Nahar,
+838,5cdbdecb6dc0baeae48cfa88,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Mûmakil,
+839,5cdbdecb6dc0baeae48cfa89,NaN,Orc,Male,NaN,NaN,"March ,3019",NaN,NaN,Muzgash,
+840,5cdbdecb6dc0baeae48cfa8a,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,The Moth,
+841,5cdbdecb6dc0baeae48cfa8b,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Minastan,
+842,5cdbdecb6dc0baeae48cfa8c,NaN,Eagles,Male,NaN,NaN,NaN,NaN,NaN,Meneldor,
+843,5cdbdecb6dc0baeae48cfa8d,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Men,
+844,5cdbdecb6dc0baeae48cfa8e,Any size by choice,Ainur,Male,"Before the creation of ,Arda",NaN,Immortal,"Utumno,Angband,Middle-earth,Beleriand",Dark,Melkor,
+845,5cdbdecb6dc0baeae48cfa8f,NaN,Ainur,Female,"Before the creation of ,Arda",Thingol,"Did not die being a ,Maia returned to ,Valinor, after the death of her husband Thingol",Doriath,Dark,Melian,
+846,5cdbdecb6dc0baeae48cfa90,NaN,Uruk-hai,Male,3019,none,"February 29 ,3019","Isengard,Saruman",Black (film),Mauhúr,
+847,5cdbdecb6dc0baeae48cfa91,NaN,Ainur,Male,Before the Creation of Arda,Varda,Immortal,"Arda,Valinor",NaN,Manwë,
+848,5cdbdecb6dc0baeae48cfa92,NaN,Ainur,Male,Before the creation of Arda,Vairë,NaN,NaN,NaN,Mandos,
+849,5cdbdecb6dc0baeae48cfa93,NaN,Great Eagles,Male,NaN,NaN,NaN,NaN,NaN,Gwaihir,
+850,5cdbdecb6dc0baeae48cfa94,NaN,Orc,Male,NaN,NaN,"February 29 ,3019",NaN,NaN,Grishnákh,
+851,5cdbdecb6dc0baeae48cfa95,About nine feet (film),Orcs,Male,NaN,NaN,"July ,2941",NaN,Grey/white strands of hair (film),Great Goblin,
+852,5cdbdecb6dc0baeae48cfa96,"5'9"" - 6'4"" (film)",Orc,Male,NaN,None,"March 15, 3019 (film)","Minas Morgul,the Witch-King","white/gray, possibly light brown (film)",Gothmog (Lieutenant of Morgul),
+853,5cdbdecb6dc0baeae48cfa97,NaN,"Maiar,Balrogs",Male,"Before the creation of ,Arda",NaN,FA 510,NaN,NaN,Gothmog,
+854,5cdbdecb6dc0baeae48cfa98,NaN,Dragons,Male,NaN,NaN,NaN,NaN,NaN,Gostir,
+855,5cdbdecb6dc0baeae48cfa99,NaN,Hobbits,Male,SR 1134,Malva Headstrong,SR 1236,Buckland,NaN,"Gormadoc ""Deepdelver"" Brandybuck",
+856,5cdbdecb6dc0baeae48cfa9a,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Gorgol,
+857,5cdbdecb6dc0baeae48cfa9b,medium,"Uruk-hai,Orc",Male,NaN,NaN,"March 14 ,3019, slain by ,Shagrat",Cirith Ungol,black,Gorbag,
+858,5cdbdecb6dc0baeae48cfa9c,NaN,"Orc,Goblin",Male,"Unknown, before ,TA 2700",None,TA 2747,Mount Gram,NaN,Golfimbul,
+859,5cdbdecb6dc0baeae48cfa9d,Gigantic,Dragons,Male,Presumably after Morgoth's return to Angband,None,FA 501,NaN,None,Glaurung,
+860,5cdbdecb6dc0baeae48cfa9e,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Gimli (Elf),
+861,5cdbdecb6dc0baeae48cfa9f,NaN,Half-elven,Female,TA 2000,NaN,NaN,NaN,NaN,Gilmith,
+862,5cdbdecb6dc0baeae48cfaa0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Cottar,
+863,5cdbdecb6dc0baeae48cfaa1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Cora Goodbody,
+864,5cdbdecb6dc0baeae48cfaa2,Gigantic,Werewolves,Male,"Before the Creation of ,Arda",NaN,FA 466,Angband,Black with red stripes,Carcharoth,
+865,5cdbdecb6dc0baeae48cfaa3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Carc,
+866,5cdbdecb6dc0baeae48cfaa4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Calimmacil,
+867,5cdbdecb6dc0baeae48cfaa5,NaN,Men,Male,"Late ,Third Age",NaN,"Early ,Fourth Age",NaN,Brown (movie),Barliman Butterbur,
+868,5cdbdecb6dc0baeae48cfaa6,"7' 1"" (2.13 metres)","Men,Wraith",Male,"Mid-,Second Age",NaN,"March 15 ,3019","Angmar,Minas Morgul,Osgiliath","Brown, graying, later white",Witch-king of Angmar,
+869,5cdbdecb6dc0baeae48cfaa7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Wife of Barach,
+870,5cdbdecb6dc0baeae48cfaa8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Widow Rumble,
+871,5cdbdecb6dc0baeae48cfaa9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Will Whitfoot,
+872,5cdbdecb6dc0baeae48cfaaa,Huge,Urulóki,Most likely male,Possibly pre First Age,Most likely none,Unknown; possibly still alive,Doors of Durin,None,Watcher in the Water,
+873,5cdbdecb6dc0baeae48cfaab,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Warg Matriarch,
+874,5cdbdecb6dc0baeae48cfaac,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vëannë,
+875,5cdbdecb6dc0baeae48cfaad,NaN,Ainur,Female,Before the creation of Arda,Manwë,Immortal,Arda,NaN,Varda,
+876,5cdbdecb6dc0baeae48cfaae,NaN,Ainur,Female,Before the creation of Arda,Mandos,Immortal,"Valinor,Halls of Mandos",NaN,Vairë,
+877,5cdbdecb6dc0baeae48cfaaf,Enormous,Great Spiders,Female,NaN,NaN,"Possibly end of ,First Age",NaN,NaN,Ungoliant,
+878,5cdbdecb6dc0baeae48cfab0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ulrad,
+879,5cdbdecb6dc0baeae48cfab1,NaN,Ainur,Male,"Before the creation of ,Arda",None,Immortal,"Valinor,Ulmonan",NaN,Ulmo,
+880,5cdbdecb6dc0baeae48cfab2,"6' 6"" (movie)",Uruk-hai,Male,3019,None,February 293019,Isengard,Dark (movie),Uglúk,
+881,5cdbdecb6dc0baeae48cfab3,NaN,Orc,Male,NaN,None,3019,Cirith Ungol,NaN,Ufthak,
+882,5cdbdecb6dc0baeae48cfab4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Daddy Twofoot,
+883,5cdbdecb6dc0baeae48cfab5,NaN,Ainur,Male,"Before the creation of ,Arda",Nessa,Immortal,"Valinor,House of Tulkas",Golden,Tulkas,
+884,5cdbdecb6dc0baeae48cfab6,NaN,Elves,Male,NaN,NaN,FA 489,NaN,NaN,Beleg,
+885,5cdbdecb6dc0baeae48cfab7,Very tall,Ents,Male,NaN,NaN,"March 3 ,3019",NaN,Leafy-hair,Beechbone,
+886,5cdbdecb6dc0baeae48cfab8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Barahir (Fourth Age),
+887,5cdbdecb6dc0baeae48cfab9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Baldor,
+888,5cdbdecb6dc0baeae48cfaba,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Balcmeg,
+889,5cdbdecb6dc0baeae48cfabb,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Man in the Moon,
+890,5cdbdecb6dc0baeae48cfabc,NaN,Hobbit,Female,NaN,Gormadoc Brandybuck,NaN,NaN,NaN,"Malva ""Headstrong"" Brandybuck",
+891,5cdbdecb6dc0baeae48cfabd,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Malantur,
+892,5cdbdecb6dc0baeae48cfabe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Mallor (BOH),
+893,5cdbdecb6dc0baeae48cfabf,NaN,Elves,Male,NaN,NaN,FA 502,NaN,NaN,Mablung,
+894,5cdbdecb6dc0baeae48cfac0,NaN,Balrog,Male,"Before the creation of ,Arda",NaN,First Age,NaN,Mane of red flame,Lungorthin,
+895,5cdbdecb6dc0baeae48cfac1,6'1 (film),Uruk-hai,Male," ,3019",NaN,February 293019,NaN,Dark,Lugdush,
+896,5cdbdecb6dc0baeae48cfac2,3'8',NaN,NaN,SR 1313,Lilah Took,Between SR 1401-1418,NaN,NaN,Letter 211,
+897,5cdbdecb6dc0baeae48cfac3,NaN,Eagle,Male,"Possibly ,First Age",NaN,Possibly still alive,NaN,NaN,Landroval,
+898,5cdbdecb6dc0baeae48cfac4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Gamil Zirak,
+899,5cdbdecb6dc0baeae48cfac5,NaN,Elves,Male,NaN,NaN,NaN,NaN,NaN,Galdor of the Tree,
+900,5cdbdecb6dc0baeae48cfac6,NaN,Elves,Male,NaN,Unnamed Wife,NaN,NaN,NaN,Galathil,
+901,5cdbdecb6dc0baeae48cfac7,NaN,Half-elven,Male,TA 2004,Unnamed wife,TA 2129,NaN,NaN,Galador,
+902,5cdbdecb6dc0baeae48cfac8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Fíriel Fairbairn,
+903,5cdbdecb6dc0baeae48cfac9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Fuithluin,
+904,5cdbdecb6dc0baeae48cfaca,NaN,Men,Male,Second Age,NaN,NaN,NaN,NaN,Fuinur,
+905,5cdbdecb6dc0baeae48cfacb,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Fladrif,
+906,5cdbdecb6dc0baeae48cfacc,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Broncho Stonecrow,
+907,5cdbdecb6dc0baeae48cfacd,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Brodda,
+908,5cdbdecb6dc0baeae48cface,NaN,Ents,Male,TA 2519,NaN,NaN,NaN,Leafy-hair,Bregalad,
+909,5cdbdecb6dc0baeae48cfacf,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Tolman Gardner,
+910,5cdbdecb6dc0baeae48cfad0,About 13',Stone-trolls,Male,"Third Age, or before",None,NaN,NaN,None,"Tom, Bert, and William",
+911,5cdbdecb6dc0baeae48cfad1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Tim,
+912,5cdbdecb6dc0baeae48cfad2,NaN,Vampire,Female,NaN,NaN,FA 465,NaN,NaN,Thuringwethil,
+913,5cdbdecb6dc0baeae48cfad3,30,Great Eagles,Male,"Before the Creation of ,Arda",NaN,Immortal,NaN,NaN,Thorondor,
+914,5cdbdecb6dc0baeae48cfad4,8'5,Orcs,Male,NaN,NaN,TA 2799,"Moria,Mount Gundabad",none,Azog,
+915,5cdbdecb6dc0baeae48cfad5,NaN,Ainur,Male,"Before the creation of ,Arda",Yavanna,Immortal,NaN,NaN,Aulë,
+916,5cdbdecb6dc0baeae48cfad6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Asgon,
+917,5cdbdecb6dc0baeae48cfad7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Artamir,
+918,5cdbdecb6dc0baeae48cfad8,As tall as a mountain,Dragons,Male,Possibly before the Creation of Arda,NaN,FA 587,NaN,NaN,Ancalagon,
+919,5cdbdecb6dc0baeae48cfad9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Andvír,
+920,5cdbdecb6dc0baeae48cfada,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Amlach,
+921,5cdbdecb6dc0baeae48cfadb,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Aghan,
+922,5cdbdecb6dc0baeae48cfadc,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Agathor,
+923,5cdbdecb6dc0baeae48cfadd,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Aerandir,
+924,5cdbdf007ed9587226e79499,,Human,Female,,,,,,Freda,http://lotr.wikia.com//wiki/Freda
+925,5cdbdf377ed9587226e7949a,,Orc,Male,,,TA 3019,,,Sharku,http://lotr.wikia.com//wiki/Sharku
+926,5cdbdf477ed9587226e7949b,,Human,Male,,,TA 3019,Gondor,,Madril,http://lotr.wikia.com//wiki/Madril
+927,5cdbdf807ed9587226e7949c,,Orc,,,,TA 3019,,,Gothmog,http://lotr.wikia.com//wiki/Gothmog
+928,5cdbe1e17ed9587226e7949d,,Human,Female,,,,Rohan,,Morwen,http://lotr.wikia.com//wiki/Morwen_(movie_character)
+929,5cdbe3667ed9587226e7949e,,Elf,Male,,,,Rivendell,,Figwit,http://lotr.wikia.com//wiki/Figwit
+930,5cdbe47d7ed9587226e7949f,,Elf,Male,,,,,,MINOR_CHARACTER,
+931,5cdbe49b7ed9587226e794a0,,,,,,,,,MINOR_CHARACTER,
+932,5cdbe73516d496d2c2940848,,Human,Male,,,,Rohan,,Éothain,http://lotr.wikia.com//wiki/Éothain_(film_character)t

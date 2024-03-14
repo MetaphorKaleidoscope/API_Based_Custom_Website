@@ -1,0 +1,42 @@
+{% include "header.html" %}
+
+  <!-- Page Header -->
+  <header class="masthead" style="background: #241468">
+    <div class="overlay"></div>
+          <div class="site-heading">
+          </div>
+  </header>
+
+  <!-- Main Content -->
+<Body>
+<div id="backgroundImage">
+<div class="demo-title">
+    <h1>{{char.name[index]}}</h1>
+<div>
+    <table>
+  <tr>
+    <th colspan="2">In-universe information</th>
+  </tr>
+   {% for each in range(2,12): %}
+        <tr>
+            {% if each != 10: %}
+                <td >{{ columns[each] }}</td>
+                {% if each != 11 %}
+                <td>{{ char[columns[each]][index] }}</td>
+                {% else: %}
+                    {% if char[columns[each]][index] != 'No information': %}
+                    <td><a class="nav-link" href="{{char[columns[each]][index]}}">{{char.name[index]}}</a></td>
+                    {% else: %}
+                    <td><a class="nav-link" href="#">{{char.name[index]}}</a></td>
+                    {% endif %}
+            {% endif %}
+            {% endif %}
+        </tr>
+   {% endfor %}
+</table>
+
+</div>
+</div>
+    </div>
+</Body>
+{% include "footer.html" %}
